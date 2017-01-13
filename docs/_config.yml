@@ -16,8 +16,8 @@
 title: Go Baby Go Construction Documentation
 email: watson_rb@mercer.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This documentation project demonstrates how a Jekyll project in the /docs folder
-  can be used to create a public documentation site in http://<account>.github.io/
+  This site will contain information about building and customizing 
+  Power Wheels cars for use by children with limited mobility.
 baseurl: "/GoBabyGo" # the subpath of your site, e.g. /blog
 url: "https://merceru-tco.github.io/GoBabyGo" # the base hostname & protocol for your site
 twitter_username: bobwatsonphd
