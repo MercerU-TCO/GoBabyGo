@@ -6,38 +6,38 @@ layout: default
 
 These indefatiguable pit crews made the first official production run from the Mercer Engineering __Go Baby Go__ assembly line an unqualified success.
 
-![Team 1](/assets/images/DecBuildTeam01.jpg)
+![Team 1]({{ site.baseurl }}/assets/images/DecBuildTeam01.jpg)
 
 ----------
 
-![Team 2](/assets/images/DecBuildTeam02.jpg)
+![Team 2]({{ site.baseurl }}/assets/images/DecBuildTeam02.jpg)
 
 ----------
 
-![Team 3](/assets/images/DecBuildTeam03.jpg)
+![Team 3]({{ site.baseurl }}/assets/images/DecBuildTeam03.jpg)
 
 ----------
 
-![Team 4](/assets/images/DecBuildTeam04.jpg)
+![Team 4]({{ site.baseurl }}/assets/images/DecBuildTeam04.jpg)
 
 ----------
 
-![Team 5](/assets/images/DecBuildTeam05.jpg)
+![Team 5]({{ site.baseurl }}/assets/images/DecBuildTeam05.jpg)
 
 ----------
 
-![Team 6](/assets/images/DecBuildTeam06.jpg)
+![Team 6]({{ site.baseurl }}/assets/images/DecBuildTeam06.jpg)
 
 ----------
 
-![Team 7](/assets/images/DecBuildTeam07.jpg)
+![Team 7]({{ site.baseurl }}/assets/images/DecBuildTeam07.jpg)
 
 ----------
 
-![Team 8](/assets/images/DecBuildTeam08.jpg)
+![Team 8]({{ site.baseurl }}/assets/images/DecBuildTeam08.jpg)
 
 ----------
 
-![Team 9](/assets/images/DecBuildTeam09.jpg)
+![Team 9]({{ site.baseurl }}/assets/images/DecBuildTeam09.jpg)
 
 ----------
