@@ -1,3 +1,7 @@
+---
+layout:default
+---
+
 # Go Baby Go
 
 This site will contain information about building and customizing __Power Wheels__ cars for children with limited mobility.
