@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 # December 2017 Pit Crews
