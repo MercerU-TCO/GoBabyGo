@@ -1,6 +1,6 @@
 ---
 title: Maserati
-layout: page
+layout: topic
 ---
 
 Coming soon

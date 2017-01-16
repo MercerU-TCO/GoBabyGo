@@ -1,6 +1,6 @@
 ---
 title: Car models
-layout: page
+layout: topic
 ---
 
 # Cars
