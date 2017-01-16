@@ -1,6 +1,7 @@
 ---
 title: Common Tools and Tips
-layout: topic-page
+layout: topic
+
 ---
 
 # Common Tools
