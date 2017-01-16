@@ -1,8 +1,8 @@
 ---
 title: Car models
-layout: default
+layout: page
 ---
 
 # Cars
 
-Coming soon
+* [Maserati]({{site.baseurl}}/pages/cars-maserati-home.html)
