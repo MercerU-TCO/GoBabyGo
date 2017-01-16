@@ -2,9 +2,18 @@
 layout: default
 ---
 
-# Go Baby Go
+# Go Baby Go Construction 
 
-The documentation for this has not been written, yet. In the mean time, you can get more information about the program here:
+These topics describe how to build and adapt a Go Baby Go car. 
+
+If you're just getting started, review the [General Construction Tips]({{site.baseurl}}/pages/tools-tips-home.html) and then review the steps for the specific car model that you're building.
+
+* [General Construction Tips]({{site.baseurl}}/pages/tools-tips-home.html)
+* [Car Model Specific Information]({{site.baseurl}}/pages/cars-home.html)
+	* [Maserati]({{site.baseurl}}/pages/cars-maserati-home.html)
+
+
+# Go Baby Go Program Information
 
 * Information about the Go Baby Go project's beginnings: [https://www.youtube.com/watch?v=qcZtW18WgtE](https://www.youtube.com/watch?v=qcZtW18WgtE "One Man Helped Disabled Kids With Power Wheels")
 * Information about Go Baby Go at Mercer: 
