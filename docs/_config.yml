@@ -23,7 +23,7 @@ url: "https://merceru-tco.github.io/GoBabyGo" # the base hostname & protocol for
 twitter_username: bobwatsonphd
 github_username:  rbwatson
 include: ['pages']
-author_name: Mercer University TCO
+author.name: Mercer University TCO
 
 # Build settings
 markdown: kramdown
