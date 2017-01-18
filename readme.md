@@ -20,7 +20,7 @@ Files and information about writing the documentation are stored in several plac
 
 ### Published Documentation
 
-The source files that produce the published documentation are stored as a Jekyll project under the **docs** folder. These files are automatically built into HTML documentation files that are accessible at (https://merceru-tco.github.io/GoBabyGo/)[https://merceru-tco.github.io/GoBabyGo].
+The source files that produce the published documentation are stored as a Jekyll project under the **docs** folder. These files are automatically built into HTML documentation files that are accessible at [https://merceru-tco.github.io/GoBabyGo](https://merceru-tco.github.io/GoBabyGo/).
 
 ### Project Files
 
@@ -28,7 +28,7 @@ Files used by the development and or documentation but are not intended to be pu
 
 # Go Baby Go Information
 
-* Information about the Go Baby Go project's beginnings: [https://www.youtube.com/watch?v=qcZtW18WgtE](https://www.youtube.com/watch?v=qcZtW18WgtE "One Man Helped Disabled Kids With Power Wheels")
+* Information about the Go Baby Go project's beginnings: "[One Man Helped Disabled Kids With Power Wheels](https://www.youtube.com/watch?v=qcZtW18WgtE)"
 * Information about Go Baby Go at Mercer: 
 	- [December 2016 on Facebook](https://www.facebook.com/mercertc/posts/1166188856828602)
 	- [December 22, 2016 in __The Telegraph__](http://www.macon.com/news/local/education/article122402574.html)
