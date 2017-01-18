@@ -1,8 +1,8 @@
 ---
+title: December 2017 Pit Crews
 layout: topic
 ---
 
-# December 2017 Pit Crews
 
 These indefatiguable pit crews made the first official production run from the Mercer Engineering __Go Baby Go__ assembly line an unqualified success.
 
