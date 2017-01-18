@@ -9,7 +9,7 @@ These topics describe how to build and adapt a Go Baby Go car.
 
 If you want to contribute to the documentation...
 
-| Come to the Kickoff meeting in SEB 202! Monday, January 23 from Noon to 2:00 pm |
+| **Come to the Kickoff meeting in SEB 202! Monday, January 23 from Noon to 2:00 pm** |
 
 [Learn more about how to contribute to the documentation!]({{site.baseurl}}/pages/tc-invite-spring17.html).
 

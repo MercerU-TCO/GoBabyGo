@@ -16,7 +16,7 @@ To make this happen, we need your help to write procedures and instructions, tak
 
 The documentation is starting to take shape at [https://merceru-tco.github.io/GoBabyGo/](https://merceru-tco.github.io/GoBabyGo/) but it needs your help! Contact [Dr. Bob Watson](mailto:watson_rb@mercer.edu), or just come to the kickoff meeting!
 
-| Kickoff meeting in SEB 202	 Monday, January 23 @ Noon |
+| **Come to the Kickoff meeting in SEB 202! Monday, January 23 from Noon to 2:00 pm** |
 
 ## What’s the reward?
 
@@ -36,5 +36,5 @@ The short-term vision for this project is to make it easy for volunteers to adap
 ## What is the schedule?
 The next “build event” (where students will build cars for children) is scheduled for March 25-26, 2017. The documentation for the event will need to be complete about one week before the event.
 
-| Come to the Kickoff meeting in SEB 202! Monday, January 23 from Noon to 2:00 pm |
+| **Come to the Kickoff meeting in SEB 202! Monday, January 23 from Noon to 2:00 pm** |
 
