@@ -1,6 +1,12 @@
 # Go Baby Go Documentation
 
-This repo contains the staging version of the documentation used to build and customize the small electric cars used by the Go Baby Go project. For the published documentation, see [Go Baby Go](https://merceru-tco.github.io/GoBabyGo/).
+This repo contains the documentation used to build and customize the small electric cars used by the Go Baby Go project.
+
+The published content is found at [Go Baby Go](https://merceru-tco.github.io/GoBabyGo/)
+The source documents that make up the published content is found in the [https://github.com/MercerU-TCO/GoBabyGo](https://github.com/MercerU-TCO/GoBabyGo) repo.
+The repo where changes are tested before they are published is the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo.
+
+See the notes below on how to contribute to this documentatin project.
 
 # How to contribute to the Go Baby Go! documentation
 
@@ -8,7 +14,7 @@ Thank you for your interest in the project! We look forward to your contribution
 
 ## Getting ready to contribute
 
-1. Fork this repo into your GitHub account.
+1. Fork the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo into your GitHub account.
 1. In your forked repo, set the settings to publish the **/docs** folder of the **master** branch. 
     1. You should be able to open the current project from the documentation link shown in the settings tab.
     1. If you DO NOT see the documentation or the link address in the settings, **STOP**  and fix that before you continue.
@@ -22,19 +28,17 @@ After you create or modify the files that you want to contribute to the project:
     1. The first place to look is to make sure you do not have any bad metadata in a file.
     1. The next place to look is to make sure you didn't link an image wrong.
 1. If you see your change in your version of the github.io documentation, continue.
-1. Send you pull request to this repo.
-1. If it looks good, it will be merged into this repo and eventually make its way to the published project.
+1. Send you pull request to the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo.
+1. If it looks good, it will be merged into this repo and eventually make its way to the published project. If GitHub says that your pull request can be automatically merged, it will be processed more quickly than one that requires conflict resolution.
 1. If there's a problem, the pull request will be declined with a comment to help you fix it. After you fix whatever was broken, repeat these steps to resubmit your pull request.
 
 # Repo organization
 
 The repo is organized into
 
-* [Documentation development information (the Wiki)](https://github.com/rbwatson/GoBabyGo/wiki)
-* [Published documentation source files](https://github.com/rbwatson/GoBabyGo/docs)
-* [Project files (this repo)](https://github.com/rbwatson/GoBabyGo)
-
-This repo is the staging repo where changes and contributions are tested before they are published. Changes that have been accepted and tested will be pulled into the upstream repo.
+* Documentation development information is found in the staging repo wiki
+* Published documentation source files are found in the **/docs** folder
+* Project files that are used to create the docs but are NOT published are found in tother folders
 
 ## Documentation development information
 
@@ -45,11 +49,11 @@ Files and information about writing the documentation are stored in several plac
 
 ## Published Documentation
 
-The source files that produce the published documentation are stored as a Jekyll project under the **docs** folder. These files are automatically built into HTML documentation files. The master copy of the published documentation is [https://merceru-tco.github.io/GoBabyGo](https://merceru-tco.github.io/GoBabyGo/).
+The source files that produce the published documentation are stored as a Jekyll project under the **/docs** folder. These files are automatically built into HTML documentation files. The master copy of the published documentation is [https://merceru-tco.github.io/GoBabyGo](https://merceru-tco.github.io/GoBabyGo/). You should be able to see your version of the docs in the URL shown in the settings page. It should look something like: https://_yourAccount_.github.io/GoBabyGo (where _yourAccount_ is your GitHub account).
 
 ## Project Files
 
-Files used by the development and or documentation but are not intended to be published with the end-user documentation are stored in root folders (so long as the folder is not named **docs**)
+Files used by to help create elements of the documention but are not intended to be published with the end-user documentation are stored in root folders (so long as the folder is not named **/docs**)
 
 # Go Baby Go Information
 
