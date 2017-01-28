@@ -3,7 +3,7 @@ title: Go Baby Go!
 layout: default
 ---
 
-| This documentation is not complete, yet. |
+| **This documentation is not complete, yet.** |
 
 
 # _Go Baby Go_ Construction Documentation
