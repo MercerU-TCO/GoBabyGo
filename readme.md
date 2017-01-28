@@ -2,9 +2,9 @@
 
 This repo contains the documentation used to build and customize the small electric cars used by the Go Baby Go project.
 
-The published content is found at [Go Baby Go](https://merceru-tco.github.io/GoBabyGo/)
-The source documents that make up the published content is found in the [https://github.com/MercerU-TCO/GoBabyGo](https://github.com/MercerU-TCO/GoBabyGo) repo.
-The repo where changes are tested before they are published is the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo.
+* The published content is found at [Go Baby Go](https://merceru-tco.github.io/GoBabyGo/).<br>
+* The source documents that make up the published content is found in the [https://github.com/MercerU-TCO/GoBabyGo](https://github.com/MercerU-TCO/GoBabyGo) repo.<br>
+* The repo where changes are tested before they are published is the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo.
 
 See the notes below on how to contribute to this documentatin project.
 
