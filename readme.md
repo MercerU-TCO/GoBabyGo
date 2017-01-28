@@ -18,32 +18,39 @@ Thank you for your interest in the project! We look forward to your contribution
 	* Check to make sure that you're forking from the correct account:<br>
 ![GitHub account to fork](/contribute/images/contribute_rbwatson.png)
 	* Then click the **Fork** button to fork the repo into your account<br>
-![GitHub account to fork](/contribute/images/contribute_fork.png)
+![GitHub fork button](/contribute/images/contribute_fork.png)
 1. In your forked repo, set the settings to publish the **/docs** folder of the **master** branch. 
 	* Open the **Settings** tab in the repo you just forked to your account.<br>
-![GitHub account to fork](/contribute/images/contribute_settings.png)
+![GitHub settings tab](/contribute/images/contribute_settings.png)
 	* In the **Settings** tab, select the **Options** view.<br>
-![GitHub account to fork](/contribute/images/contribute_options.png)
+![GitHub options view](/contribute/images/contribute_options.png)
 	* Scroll down the page to find the **GitHub Pages** box.
-		1. Select the **master branch /docs folder** and **Save**
-		2. Make sure you see that your site is published (this can take a minute or two.
-		3. Confirm that the link refers to your account.
-	* ![GitHub account to fork](/contribute/images/contribute_pages.png)
+		1. (Arrow 1) Select the **master branch /docs folder** and **Save**
+		2. (Arrow 2) Make sure you see that your site is published (this can take a minute or two.
+		3. (Arrow 3) Confirm that the link refers to your account.
+	* ![GitHub GitHub Pages box](/contribute/images/contribute_pages.png)
     * When you see the green bar, open the the documentation in the link (Arrow 3 above).
     * If you DO NOT see a green bar and the documentation link or the link address in the settings does not refer to your account, **STOP**  and fix that before you continue.
 1. If you see your copy of the documentation in gethub.io, then you're ready to continue.
 
 ## Making a contribution
 
-After you create or modify the files that you want to contribute to the project:
+After you create or modify the files in your forked repo, to contribute those changes to the project:
 
-1. **Make sure that you can see those changes in your version of the github.io documentation.** This is very important. If you can't see them, then something went wrong and you must fix it before you continue.
+1. **Make sure that you can see those changes in your version of the github.io documentation.** <br>
+This is very important. If you can't see your changes, something went wrong and **you must fix it before you continue!**
     1. The first place to look is to make sure you do not have any bad metadata in a file.
     1. The next place to look is to make sure you didn't link an image wrong.
-1. If you see your change in your version of the github.io documentation, continue.
+    2. If you still don't see your changes, you'll need to ask for help.
+1. If you see your changes in your version of the github.io documentation (i.e. at the link in your repo's **Settings** tab, in the **GitHub Pages** box in the **Options** view), you can continue.
 1. Send you pull request to the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo.
-1. If it looks good, it will be merged into this repo and eventually make its way to the published project. If GitHub says that your pull request can be automatically merged, it will be processed more quickly than one that requires conflict resolution.
-1. If there's a problem, the pull request will be declined with a comment to help you fix it. After you fix whatever was broken, repeat these steps to resubmit your pull request.
+	1. Create a **New pull request**<br>
+![GitHub GitHub Pages box](/contribute/images/contribute_pullrequest.png)
+	2. In the **Comparing changes** page, check the mergeability (Arrow 1). If it's **able to merge**, continue. If not, you can still continue, but your pull request might be rejected. Click **Create pull request** (Arrow 2) to finish.
+![GitHub GitHub Pages box](/contribute/images/contribute_create.png)
+
+1. If your contribution looks good, it will be merged into the staging repo and eventually make its way to the published project. 
+1. If there's a problem, you might get some questions about the pull request or it might be declined with a comment to help you fix it. After you fix whatever wasn't working, repeat these steps to resubmit your pull request.
 
 # Repo organization
 
