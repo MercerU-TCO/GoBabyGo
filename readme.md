@@ -75,6 +75,7 @@ Issues should be labeled to make them easy to search. The labels used in this pr
 * **Descriptive labels** describe the type of issue and are used to organize the labels
 * **Process labels** describe where an issue is in a process to keep track of an issue's progress
 * **Outcome labels** describe how an issue was closed, if it was not addressed.
+* **Size/Scope labels** describes the relative size of the issue.
 
 These are the labels used for issues in this project.
 
@@ -88,9 +89,12 @@ These are the labels used for issues in this project.
 | help wanted | Descriptive labels | Issue describes a problem that someone is having with which they need assistance. |
 | in progress | Process labels | Label that is added to an issue that someone is working on. |
 | invalid | Outcome labels | Label that is added to an issue that is not valid. The issue should be closed after this label is applied. |
+| large | Size labels | Indicates a large issue that could take more than several days to complete. |
+| medium | Size labels | Indicates a medium issue that could take several days to complete. |
 | new topic | Descriptive labels | Issue describes a new topic or group of topics that need to be created. |
 | question | Descriptive labels | Issue asks a question. |
 | ready for edit | Process labels | Label that is added to a document issue that has topics ready for someone to review and edit. |
+| small | Size labels | Indicates a small issue that should take a day or less to complete. |
 | usability test | Descriptive labels | Issue describes a topic or topic set that is ready for usability testing. |
 | wontfix | Outcome labels | Label that is added to an issue that has been reviewed and determined to not require further attention. The issue should be closed after this label is applied. |
 | writing tools | Descriptive labels | Issue has to do with how the docs are written, built, edited. |
