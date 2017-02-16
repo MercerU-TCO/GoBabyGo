@@ -3,6 +3,7 @@
 
 ## Procedure
 
+5. Collect prerequisites: tools, parts, 
 1. Clean table or work area
 2. If table is hard surfaced, cover table with pads
 3. Collect tools, parts, and supplies (link to Maserati tools, parts, & supplies)
@@ -234,6 +235,7 @@ Compare with photo
 
 # 12. Connect the dashboard and steering wheel
 (Task 12)
+(Photos with task 11)
 
 ## Procedure
 
