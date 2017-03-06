@@ -25,7 +25,6 @@ After you complete these tasks, you must build the support structure for the chi
 3. [Connect the battery and motor wires]({{ site.baseurl }}/pages/cars-maserati-task12.html)
 4. [Modify the dashboard wiring]({{ site.baseurl }}/pages/cars-maserati-task13.html)
 3. [Assemble the modified dashboard]({{ site.baseurl }}/pages/cars-maserati-task14.html)
-4. [Connect the dashboard and steering wheel to the car]({{ site.baseurl }}/pages/cars-maserati-task15.html)
-5. [Perform final assembly and electrical tests]({{ site.baseurl }}/pages/cars-maserati-task16.html)
+5. [Perform final assembly and electrical tests]({{ site.baseurl }}/pages/cars-maserati-task15.html)
 
 ## Fit car to child
