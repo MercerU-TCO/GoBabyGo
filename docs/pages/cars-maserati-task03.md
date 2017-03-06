@@ -16,11 +16,11 @@ The battery provides power to the car through the orange connectors (#1) shown i
 ![Battery power connector]({{ site.baseurl }}/assets/images/maserati-task03-001.jpg)
 
 3. If battery cable is connected to vehicle power cable:
-	1. Locate the locking tab on the connector (#1 in the preceding image) and press it.
+	1. Locate the locking tab on the connector (#1) and press it in the direction indicated by the arrow.
 	2. **DO NOT PULL ON THE WIRES!** <br />Pull only on the orange connector shells.
-	2. With the locking tab pressed, pull the two connectors apart.
+	2. With the locking tab pressed, pull the two connector shells apart.
 
-4. Stow battery cable behind battery in the space shown by #2 in the photo. <br />![Battery disconnected]({{ site.baseurl }}/assets/images/maserati-task03-002.jpg)
+4. Stow the connector on the battery cable (the connector with the locking tab) behind battery in the space shown by #2 in the photo. <br />![Battery disconnected]({{ site.baseurl }}/assets/images/maserati-task03-002.jpg)
 
 
 ## Verification

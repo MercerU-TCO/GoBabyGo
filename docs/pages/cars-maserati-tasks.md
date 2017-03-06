@@ -14,3 +14,4 @@ After you complete these tasks, you must build the support structure for the chi
 1. [Task 1]({{ site.baseurl }}/pages/cars-maserati-task01.html) - Prepare work area to assemble car
 2. [Task 2]({{ site.baseurl }}/pages/cars-maserati-task02.html) - Unpack the car and prepare it for assembly
 2. [Task 3]({{ site.baseurl }}/pages/cars-maserati-task03.html) - Disconnect the battery
+2. [Task 4]({{ site.baseurl }}/pages/cars-maserati-task04.html) - Remove the dashboard
