@@ -3,6 +3,8 @@ title: Tools to assemble car
 layout: topic
 ---
 
+These are the tools that you'll need to assemble a _Go Baby Go!_ car.
+
 ## Tools used to assemble car
 
 ![Tools]({{ site.baseurl }}/assets/images/maserati-tools.jpg)
