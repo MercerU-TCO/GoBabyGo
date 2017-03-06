@@ -19,4 +19,4 @@ This task assumes that all preceding tasks have been completed.
 
 ## Validation
 
-The car is out of the box and all the loose parts have been identified and stored.
+After the car is out of the box and all the loose parts have been identified and stored, you can proceed to [the next task]({{ site.baseurl }}/pages/cars-maserati-task03.html).
