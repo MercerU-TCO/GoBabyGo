@@ -21,7 +21,7 @@ _Note that this is only required for cars that will be operated by hand._
 6. Replace the pedal and use a 9/16" screw (_not the screw that you removed!!_) to secure the foot pedal to the base.
 7. From the underside of the car, pull the wires that were connected to the foot pedal through the bottom of the car.
 8. Replace the gray foot pedal in the floor of the car so that all four tabs snap into the floor. You might need to push on the tabs with the flat-tip screwdriver for them to snap into place.
-9. Locate the terminals at the end of the cable that was connected to the foot pedal and, one at a time, feed them through the hole with the connectors from the dashboard. <br />This is easier with two people, one on each side of the car.<br />![Foot pedal cable - underside view]({{ site.baseurl }}/assets/images/maserati-task05-004.jpg)<br />View from under the car.<br /><br />![Foot pedal assembly]({{ site.baseurl }}/assets/images/maserati-task05-003.jpg)![Foot pedal cable - top view]({{ site.baseurl }}/assets/images/maserati-task05-005.jpg)<br />View from above the car.<br />
+9. Locate the terminals at the end of the cable that was connected to the foot pedal and, one at a time, feed them through the hole with the connectors from the dashboard. <br />This is easier with two people, one on each side of the car.<br />![Foot pedal cable - underside view]({{ site.baseurl }}/assets/images/maserati-task05-004.jpg)<br />View from under the car.<br /><br />![Foot pedal cable - top view]({{ site.baseurl }}/assets/images/maserati-task05-005.jpg)<br />View from above the car.<br />
 10. When all three terminals are through pull the black cable through the hole
 11. Cover the terminal at the end of the red wire with black vinyl electrical tape.
 
