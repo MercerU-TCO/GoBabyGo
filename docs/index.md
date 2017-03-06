@@ -12,7 +12,7 @@ If you're just getting started, review the [General Construction Tips]({{site.ba
 
 * [General Construction Tips]({{site.baseurl}}/pages/tools-tips-home.html)
 * [Car Model Specific Information]({{site.baseurl}}/pages/cars-home.html)
-	* [Maserati]({{site.baseurl}}/pages/cars-maserati-home.html)
+	* [Maserati]({{site.baseurl}}/pages/cars-maserati-tasks.html)
 
 
 # _Go Baby Go_ Program Information
