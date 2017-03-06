@@ -28,3 +28,16 @@ After you complete these tasks, you must build the support structure for the chi
 5. [Perform final assembly and electrical tests]({{ site.baseurl }}/pages/cars-maserati-task15.html)
 
 ## Fit car to child
+
+1. Discuss the child's needs with the therapist
+1. Consider:
+	1. Doors: usable as doors or closed permanently
+	2. Base support requirements and seat harness
+	3. Lateral support requirements
+	4. Back and head support
+5. Determine support cage required
+6. Consider mounting options
+5. Construct support cage
+6. Assemble lateral and back support
+7. Mount seat harness
+8. Fit straps on seat harness
