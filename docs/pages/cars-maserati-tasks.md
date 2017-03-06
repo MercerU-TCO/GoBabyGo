@@ -12,6 +12,7 @@ These tasks assemble a car from the box and modify the controls to enable hands-
 After you complete these tasks, you must build the support structure for the child before he or she can drive it.
 
 1. [Task 1]({{ site.baseurl }}/pages/cars-maserati-task01.html) - Prepare work area to assemble car
-2. [Task 2]({{ site.baseurl }}/pages/cars-maserati-task02.html) - Unpack the car and prepare it for assembly
-2. [Task 3]({{ site.baseurl }}/pages/cars-maserati-task03.html) - Disconnect the battery
-2. [Task 4]({{ site.baseurl }}/pages/cars-maserati-task04.html) - Remove the dashboard
+1. [Task 2]({{ site.baseurl }}/pages/cars-maserati-task02.html) - Unpack the car and prepare it for assembly
+1. [Task 3]({{ site.baseurl }}/pages/cars-maserati-task03.html) - Disconnect the battery
+1. [Task 4]({{ site.baseurl }}/pages/cars-maserati-task04.html) - Remove the dashboard
+1. [Task 5]({{ site.baseurl }}/pages/cars-maserati-task05.html) - Disconnect the foot pedal

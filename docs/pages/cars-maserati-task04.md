@@ -3,7 +3,7 @@ title: Maserati - Task 4
 layout: topic
 ---
 
-Remove dash board
+Remove the dashboard
 
 **Make sure that the [battery has been disconnected]({{ site.baseurl }}/pages/cars-maserati-task03.html "Disconnect the battery") before performing this step** 
 
