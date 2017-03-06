@@ -20,6 +20,7 @@ Assemble the toggle switch assembly
 ## Verification
 
 Use the multimeter to test the wiring.
+
 1. Select "Ohms" (or continuity) on the meter.
 2. At the end of the 18-ga duplex wire that's not connected to the switch: 
 	2. Place the red lead of the meter on the bare wire of the red wire.
@@ -27,5 +28,6 @@ Use the multimeter to test the wiring.
 4. With both leads are touching their respective wires:
 	1. With the switch in the OFF position, the meter should not show continuity.
 	2. With the switch in the OFF position, the meter should indicate continuity (by showing zero or almost zero ohms or beeping).
-	3. 
+
+
 After you confirm that the wiring is correct with the multimeter, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task11.html).

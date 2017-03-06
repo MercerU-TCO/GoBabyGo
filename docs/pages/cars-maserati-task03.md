@@ -5,7 +5,7 @@ layout: topic
 
 Disconnect the battery 
 
-_Note: the battery may already be disconnected._
+_Note: the battery may already be disconnected._ If you think that the battery is disconnected, skip to the **Verification** step below to be sure.
 
 ## Procedure
 

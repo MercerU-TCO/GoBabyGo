@@ -15,4 +15,4 @@ TBA
 
 Compare with photo
 
-After you confirm that toggle switch is wired correctly, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task12.html).
+After you confirm that toggle switch is wired correctly, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task14.html).

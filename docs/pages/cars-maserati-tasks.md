@@ -11,21 +11,21 @@ These tasks assemble a car from the box and modify the controls to enable hands-
 
 After you complete these tasks, you must build the support structure for the child before he or she can drive it.
 
-1. [Task 1]({{ site.baseurl }}/pages/cars-maserati-task01.html) - Prepare work area to assemble car
-1. [Task 2]({{ site.baseurl }}/pages/cars-maserati-task02.html) - Unpack the car and prepare it for assembly
-1. [Task 3]({{ site.baseurl }}/pages/cars-maserati-task03.html) - Disconnect the battery
-1. [Task 4]({{ site.baseurl }}/pages/cars-maserati-task04.html) - Remove the dashboard
-1. [Task 5]({{ site.baseurl }}/pages/cars-maserati-task05.html) - Disconnect the foot pedal
-1. [Task 6]({{ site.baseurl }}/pages/cars-maserati-task06.html) - Mount the push button to the steering wheel
-2. [Task 7]({{ site.baseurl }}/pages/cars-maserati-task07.html) - Wire the button on the steering wheel
-3. [Task 8]({{ site.baseurl }}/pages/cars-maserati-task08.html) - Reassemble the modified steering wheel
-3. [Task 9]({{ site.baseurl }}/pages/cars-maserati-task09.html) - Complete the steering wheel.
-3. [Task 10]({{ site.baseurl }}/pages/cars-maserati-task10.html) - Assemble the toggle switch assembly
-3. [Task 11]({{ site.baseurl }}/pages/cars-maserati-task11.html) - Install the toggle switch assembly
-3. [Task 12]({{ site.baseurl }}/pages/cars-maserati-task12.html) - Connect the battery and motor wires
-4. [Task 13]({{ site.baseurl }}/pages/cars-maserati-task13.html) - Modify the dashboard wiring
-3. [Task 14]({{ site.baseurl }}/pages/cars-maserati-task14.html) - Assemble the modified dashboard
-4. [Task 15]({{ site.baseurl }}/pages/cars-maserati-task15.html) - Connect the dashboard and steering wheel to the car
-5. [Task 16]({{ site.baseurl }}/pages/cars-maserati-task16.html) - Perform final assembly and electrical tests
+1. [Prepare work area to assemble car]({{ site.baseurl }}/pages/cars-maserati-task01.html)
+1. [Unpack the car and prepare it for assembly]({{ site.baseurl }}/pages/cars-maserati-task02.html)
+1. [Disconnect the battery]({{ site.baseurl }}/pages/cars-maserati-task03.html)
+1. [Remove the dashboard]({{ site.baseurl }}/pages/cars-maserati-task04.html)
+1. [Disconnect the foot pedal]({{ site.baseurl }}/pages/cars-maserati-task05.html)
+1. [Mount the push button to the steering wheel]({{ site.baseurl }}/pages/cars-maserati-task06.html)
+2. [Wire the button on the steering wheel]({{ site.baseurl }}/pages/cars-maserati-task07.html)
+3. [Reassemble the modified steering wheel]({{ site.baseurl }}/pages/cars-maserati-task08.html)
+3. [Complete the steering wheel]({{ site.baseurl }}/pages/cars-maserati-task09.html)
+3. [Assemble the toggle switch assembly]({{ site.baseurl }}/pages/cars-maserati-task10.html)
+3. [Install the toggle switch assembly]({{ site.baseurl }}/pages/cars-maserati-task11.html)
+3. [Connect the battery and motor wires]({{ site.baseurl }}/pages/cars-maserati-task12.html)
+4. [Modify the dashboard wiring]({{ site.baseurl }}/pages/cars-maserati-task13.html)
+3. [Assemble the modified dashboard]({{ site.baseurl }}/pages/cars-maserati-task14.html)
+4. [Connect the dashboard and steering wheel to the car]({{ site.baseurl }}/pages/cars-maserati-task15.html)
+5. [Perform final assembly and electrical tests]({{ site.baseurl }}/pages/cars-maserati-task16.html)
 
 ## Fit car to child
