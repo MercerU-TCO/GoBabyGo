@@ -20,11 +20,12 @@ Connect battery and motor wires
 7. On each of the blue and white wires that you just cut, use your wire strippers to remove 3/8"-1/2" of the insulation to expose the wire inside.
 8. On the red and the black wires of the duplex wire that is connected to the toggle switch, remove 3/8"-1/2" of the insulation to expose the wire inside.
 9. On end of the white, body-side wire, attach one end of a red posi-lock splice. On the other side of that splice, attach the red wire from the duplex wire.
-10. On the end of the blue, motor-side wire, attach one end of a red posi-lock splice. On the other side of that splice, attach the black wire from the duplex wire.
-11. Locate the car's power cable. It is the red and black wires that are connected to the orange connector that was disconnected from the battery cable.
+10. On the end of the blue, motor-side wire, attach one end of a red posi-lock splice. On the other side of that splice, attach the black wire from the duplex wire. After this step, the ends of the duplex wire (indicated by the arrow) should be connected as shown in the photo.<br>![Duplex wire connections]({{ site.baseurl }}/assets/images/maserati-task12-001.jpg)
+11. Locate the car's power cable. It is the red and black wires that are connected to the orange connector that was disconnected from the battery cable. **REMEMBER: Do not cut the wires that are connected to the battery!**
 12. Remove the black tubing from the car's power cable to leave about 1" from where the cable goes into the body.
 13. On the red power wire, about 2" from the body (1" from the end of the black tubing), attach the tap end of a posi-tap connector. To the splice end of that connector, attach the white wire from the motor-side wire.
 14. On the black power wire, about 1-1/2" from the body (1/2" from the end of the black tubing), attach the tap end of a posi-tap connector. To the splice end of that connector, attach the end of the blue, body-side wire.
+15. At this point, the power cable wires (inducated by the arrow) and posi-tap connectors should look like the photo. <br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
 
 ## Verification
 
