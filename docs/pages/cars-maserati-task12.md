@@ -34,10 +34,12 @@ Perform these verification tests and steps in the order they are shown here.
 ### Visual confirmation
 Visually confirm, and correct as required, the wiring as follows.
 
-1. The red duplex wire from the switch is connected through a posi-lock splice to the white, body-side wire.
-2. The black duplex wire from the switch is connected through a posi-lock splice to the black, motor-side wire.
-3. The white, motor-side wire is connected to posi-tap on the red power wire.
-4. The blue, body-side wire is connected to the posi-tap on the black power wire.
+1. Confirm that the duplex wires are connected as shown in this photo.<br>![Duplex wire connections]({{ site.baseurl }}/assets/images/maserati-task12-001.jpg)
+	1. The red duplex wire from the switch is connected through a posi-lock splice to the white, body-side wire.
+	2. The black duplex wire from the switch is connected through a posi-lock splice to the black, motor-side wire.
+2. Confirm that the power cable connections are correct as shown in this photo.<br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
+	3. The white, motor-side wire is connected to posi-tap on the red power wire.
+	4. The blue, body-side wire is connected to the posi-tap on the black power wire.
 
 ### Electrical test
 
