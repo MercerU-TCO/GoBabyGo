@@ -23,6 +23,7 @@ _Note that this is only required for cars that will be operated by hand._
 ## Verification
 
 Use the multimeter to test the wiring.
+
 1. Select "Ohms" (or continuity)
 2. Place the red lead of the meter on the metal terminal of the red wire
 3. Place the black lead of the meter on the metal terminal of the black wire
