@@ -33,10 +33,13 @@ Perform these verification tests and steps in the order they are shown here.
 
 ### Visual confirmation
 Visually confirm, and correct as required, the wiring as follows.
-1. The red duplex wire from the switch is connected through a posi-lock splice to the white, body-side wire.
-2. The black duplex wire from the switch is connected through a posi-lock splice to the black, motor-side wire.
-3. The white, motor-side wire is connected to posi-tap on the red power wire.
-4. The blue, body-side wire is connected to the posi-tap on the black power wire.
+
+1. Confirm that the duplex wires are connected as shown in this photo.<br>![Duplex wire connections]({{ site.baseurl }}/assets/images/maserati-task12-001.jpg)
+	1. The red duplex wire from the switch is connected through a posi-lock splice to the white, body-side wire.
+	2. The black duplex wire from the switch is connected through a posi-lock splice to the black, motor-side wire.
+2. Confirm that the power cable connections are correct as shown in this photo.<br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
+	3. The white, motor-side wire is connected to posi-tap on the red power wire.
+	4. The blue, body-side wire is connected to the posi-tap on the black power wire.
 
 ### Electrical test
 
@@ -45,10 +48,10 @@ Visually confirm, and correct as required, the wiring as follows.
 3. Confirm that the toggle switch is **OFF**.
 4. In the battery compartment, connect the battery cable to the power cable.
 5. Locate the cable that was connected to the foot pedal. You should see a black and white wire with connectors and a red wire with a connector that is taped over.
-6. Set your multimeter to measure volts.
+6. Set your multimeter to measure DC volts.
 7. Place the red (+) lead of the meter in the connector on the white wire and place the black (-) lead of the meter in the connector on the black wire.
 8. The meter should read zero volts (or very close to zero).
-	* **If it does not read zero volts, stop here and check your wiring!
+	* **If it does not read zero volts, stop here and check your wiring!**
 8. Press the car's power button to turn on the car.
 9. If the multimeter reads zero volts, turn the toggle switch to **ON**.
 10. The multimeter should read between 5.5 and 6.5 volts and the minus (-) sign should not be visible.
