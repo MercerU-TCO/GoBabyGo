@@ -17,17 +17,18 @@ _Note that this is only required for cars that will be operated by hand._
 	2. Be careful to not pull too hard on the 18-ga duplex wire as that might disconnect the wire from the push button
 3. When the cover is fitted to the base, insert three (3) screws evenly around the ring of the steering wheel
 4. Untwist the red and black wires so they are separate, again.
-5. Use the crimping tool to attach a red, male crimp terminals to the red wire and the black wire.
-6. After attaching the red, male terminals, gently tug them to make sure they are attached.
+5. Use the crimping tool to attach a red, male crimp terminals to the red wire.
+6. Use the crimping tool to attach a red, male crimp terminals to the black wire.
+6. After attaching the terminals, gently tug each of them to make sure they are attached.<br>![Tugging a terminal to test the crimp]({{ site.baseurl }}/assets/images/maserati-task08-001.jpg)
 
 ## Verification
 
 Use the multimeter to test the wiring.
 
 1. On the multimeter, select "Ohms" (or continuity). This is usually indicated by the Greek letter omega (&#937;) for Ohms.<br>![Ohms setting on meter]({{ site.baseurl }}/assets/images/metertest-ohms.jpg)
-2. Place the red lead of the meter on the metal terminal of the red wire
-3. Place the black lead of the meter on the metal terminal of the black wire
-4. With both leads touching their respective wires as shown in this photo <br>![Meter lead connection to bare wires]({{ site.baseurl }}/assets/images/metertest-leads-bare.jpg)
+2. Place the red lead of the meter on the metal terminal of the red wire.
+3. Place the black lead of the meter on the metal terminal of the black wire.
+4. With both leads touching their respective terminals as shown in this photo. <br>![Meter lead connection to terminals]({{ site.baseurl }}/assets/images/metertest-leads-crimp.jpg)
 	1. The meter should not show continuity.<br>![Meter showing no continutity]({{ site.baseurl }}/assets/images/metertest-open.jpg)
 	2. Depress the push button, and the meter should indicate continuity (by showing zero or almost zero ohms or beeping).<br>![Meter showing continutity]({{ site.baseurl }}/assets/images/metertest-short.jpg)
 
