@@ -51,7 +51,7 @@ Visually confirm, and correct as required, the wiring as follows.
 6. Set your multimeter to measure DC volts.
 7. Place the red (+) lead of the meter in the connector on the white wire and place the black (-) lead of the meter in the connector on the black wire.
 8. The meter should read zero volts (or very close to zero).
-	* **If it does not read zero volts, stop here and check your wiring!
+	* **If it does not read zero volts, stop here and check your wiring!**
 8. Press the car's power button to turn on the car.
 9. If the multimeter reads zero volts, turn the toggle switch to **ON**.
 10. The multimeter should read between 5.5 and 6.5 volts and the minus (-) sign should not be visible.
