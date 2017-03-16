@@ -33,6 +33,7 @@ Perform these verification tests and steps in the order they are shown here.
 
 ### Visual confirmation
 Visually confirm, and correct as required, the wiring as follows.
+
 1. The red duplex wire from the switch is connected through a posi-lock splice to the white, body-side wire.
 2. The black duplex wire from the switch is connected through a posi-lock splice to the black, motor-side wire.
 3. The white, motor-side wire is connected to posi-tap on the red power wire.
@@ -45,7 +46,7 @@ Visually confirm, and correct as required, the wiring as follows.
 3. Confirm that the toggle switch is **OFF**.
 4. In the battery compartment, connect the battery cable to the power cable.
 5. Locate the cable that was connected to the foot pedal. You should see a black and white wire with connectors and a red wire with a connector that is taped over.
-6. Set your multimeter to measure volts.
+6. Set your multimeter to measure DC volts.
 7. Place the red (+) lead of the meter in the connector on the white wire and place the black (-) lead of the meter in the connector on the black wire.
 8. The meter should read zero volts (or very close to zero).
 	* **If it does not read zero volts, stop here and check your wiring!
