@@ -9,7 +9,7 @@ These tasks build and customize a [Maserati MC Stradale]({{ site.baseurl }}/page
 
 These tasks assemble a car from the box and modify the controls to enable hands-only use of the car. 
 
-After you complete these tasks, you must build the support structure for the child before he or she can drive it.
+After you complete these tasks, you must fit the car to the child (described below) before he or she can drive it.
 
 1. [Prepare work area to assemble car]({{ site.baseurl }}/pages/cars-maserati-task01.html)
 1. [Unpack the car and prepare it for assembly]({{ site.baseurl }}/pages/cars-maserati-task02.html)
@@ -29,21 +29,23 @@ After you complete these tasks, you must build the support structure for the chi
 
 ## Fit car to child
 
-1. Review the [Introduction Video](https://drive.google.com/open?id=0B0qlO3MZowqudVI0aTJzOFN3NTA)
-1. Collect [supplies and tools](https://drive.google.com/open?id=0B0qlO3MZowquUVRGOE56WWtzeVk)
-1. Review the [support video](https://drive.google.com/open?id=0B0qlO3MZowqubGVYa2p6dGNsUnc) and discuss the child's needs with the therapist and consider:
+Review these steps and videos prior to the build event to become familiar with the designs and construction techniques used to fit a car to a specific child. To watch all of the videos will take slightly more than half-an-hour.
+
+1. Review the [Introduction Video](https://drive.google.com/open?id=0B0qlO3MZowqudVI0aTJzOFN3NTA).
+1. Collect [supplies and tools](https://drive.google.com/open?id=0B0qlO3MZowquUVRGOE56WWtzeVk).
+1. Review the [support video](https://drive.google.com/open?id=0B0qlO3MZowqubGVYa2p6dGNsUnc) and discuss the child's needs with the therapist and consider these topics and videos.
+	3. The [seat and harness](https://drive.google.com/open?id=0B0qlO3MZowqubE8zUjUwbm1HYlU)
 	1. Whether the doors will be usable or closed permanently
-	2. The base support requirements
-	3. The seat harness design
-	3. The lateral support requirements
-	4. The back and head support requirements
-5. Determine support cage required and the support cage mounting options<br>These options depend on whether the doors will open or not).
-5. Construct the support cage
-7. Assemble and attach the support elements to the car
+	2. The [back support requirements](https://drive.google.com/open?id=0B0qlO3MZowquT2pDaWdnWHViUXM)
+	3. The [lateral support requirements](https://drive.google.com/open?id=0B0qlO3MZowquVkdMclRsbE1hZFU)
+5. Determine support cage required and the support cage mounting options<br>These options depend on whether the doors will open or not and are explained in these videos.
+	* [Opening doors](https://drive.google.com/open?id=0B0qlO3MZowqub0RSdmlseDdWakE)
+	* [Doors that don't open](https://drive.google.com/open?id=0B0qlO3MZowquTHAyZmYxZU9QejA)
+5. Construct the support cage and attach the support elements to the car
 	1. Support cage
 	2. Base support pads
 	3. Lateral support pads
 	3. Head support pads
 	4. Seat back and harness
-8. Fit straps on seat harness to the child
-9. Conduct final check and deliver to child
+5. [Add padding to the support cage](https://drive.google.com/open?id=0B0qlO3MZowquMXpPM3ZHMGdNRkU).
+9. Conduct [final check and deliver to child](https://drive.google.com/open?id=0B0qlO3MZowquTTR1WW5TN05qRFk).
