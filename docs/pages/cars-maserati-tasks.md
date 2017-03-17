@@ -29,6 +29,7 @@ After you complete these tasks, you must build the support structure for the chi
 
 ## Fit car to child
 
+1. Collect supplies and tools
 1. Discuss the child's needs with the therapist
 1. Consider:
 	1. Doors: usable as doors or closed permanently
@@ -36,8 +37,10 @@ After you complete these tasks, you must build the support structure for the chi
 	3. Lateral support requirements
 	4. Back and head support
 5. Determine support cage required
-6. Consider mounting options
+6. Consider support cage mounting options<br>These options depend on whether the doors will open or not).
 5. Construct support cage
-6. Assemble lateral and back support
+6. Assemble back and lateral support
 7. Mount seat harness
 8. Fit straps on seat harness
+9. Add foam pads to support cage and finish with vinyl electrical tape
+10. Conduct final check and deliver to child
