@@ -16,7 +16,7 @@
 title: Go Baby Go Construction Documentation
 email: watson_rb@mercer.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This site will contain information about building and customizing 
+  This site contains information about building and customizing 
   Power Wheels cars for use by children with limited mobility.
 baseurl: "/GoBabyGo" # the subpath of your site, e.g. /blog
 url: "https://merceru-tco.github.io/GoBabyGo" # the base hostname & protocol for your site
@@ -24,6 +24,7 @@ twitter_username: bobwatsonphd
 github_username:  rbwatson
 include: ['pages']
 author.name: Mercer University TCO
+owner: Mercer University TCO
 
 # Build settings
 markdown: kramdown
