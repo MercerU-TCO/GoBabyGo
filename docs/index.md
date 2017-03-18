@@ -3,14 +3,10 @@ title: Go Baby Go!
 layout: default
 ---
 
-| **This documentation is not complete, yet.** |
-
-
 # _Go Baby Go_ Construction Documentation
 
-If you're just getting started, review the [General Construction Tips]({{site.baseurl}}/pages/tools-tips-home.html) and then review the steps for the specific car model that you're building.
+If you're about to build a car for Mercer University's _Go Baby Go!_, review the steps for the specific car model that you'll build.
 
-* [General Construction Tips]({{site.baseurl}}/pages/tools-tips-home.html)
 * [Car Model Specific Information]({{site.baseurl}}/pages/cars-home.html)
 	* [Maserati]({{site.baseurl}}/pages/cars-maserati-tasks.html)
 
