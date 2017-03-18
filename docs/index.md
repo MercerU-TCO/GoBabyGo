@@ -3,9 +3,6 @@ title: Go Baby Go!
 layout: default
 ---
 
-| **This documentation is not complete, yet.** |
-
-
 # _Go Baby Go_ Construction Documentation
 
 If you're just getting started, review the [General Construction Tips]({{site.baseurl}}/pages/tools-tips-home.html) and then review the steps for the specific car model that you're building.
