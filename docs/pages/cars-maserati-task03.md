@@ -7,7 +7,7 @@ layout: topic
 
 [Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)
 
-</>
+</p>
 
 Disconnect the battery 
 
