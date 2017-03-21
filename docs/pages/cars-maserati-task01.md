@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 1
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
 
 Prepare work area to assemble car
 
@@ -20,6 +19,3 @@ Prepare work area to assemble car
 ## Verification
 
 When you have collected the parts and tools and put the car on the table, you are ready to [continute to the next task]({{ site.baseurl }}/pages/cars-maserati-task02.html).
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-

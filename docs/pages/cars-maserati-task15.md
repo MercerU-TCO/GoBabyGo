@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 15
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
 
 Perform final assembly and electrical tests
 
@@ -43,6 +42,3 @@ _This task is easier with two people._
 3. Place the seat over the battery compartment and fasten it to the car using the 1/4-turn screw in the back of the seat.
 
 After you confirm that the assembly is complete and the car functions correctly. You can [return to the task list for this car]({{ site.baseurl }}/pages/cars-maserati-tasks.html) to see the next tasks.
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-

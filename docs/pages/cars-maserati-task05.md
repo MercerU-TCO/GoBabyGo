@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 5
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
 
 Disconnect the foot pedal
 
@@ -40,6 +39,3 @@ After you make sure that:
 2. The terminal on the red wire is covered in black vinyl electrical tape.
 
 You can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task06.html).
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-

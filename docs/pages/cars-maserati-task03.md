@@ -1,6 +1,6 @@
 ---
 title: Maserati - Task 3
-layout: topic
+layout: topicTask
 mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 

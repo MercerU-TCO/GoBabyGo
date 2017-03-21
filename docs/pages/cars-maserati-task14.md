@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 14
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
 
 Assemble the modified dashboard
 
@@ -51,6 +50,3 @@ _This task is easier with two people._
 
 
 After you confirm that toggle switch is wired correctly, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task15.html).
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-

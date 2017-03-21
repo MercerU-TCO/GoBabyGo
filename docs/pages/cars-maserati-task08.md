@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 8
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-
 
 Reassemble the modified steering wheel
 
@@ -38,6 +37,3 @@ Use the multimeter to test the wiring.
 
 
 After you confirm that the wiring is correct with the multimeter, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task09.html).
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-

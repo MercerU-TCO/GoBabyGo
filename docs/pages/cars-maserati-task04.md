@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 4
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
 
 Remove the dashboard
 
@@ -33,6 +32,3 @@ After you make sure that:
 3. The connectors on the car appear as in this photo<br />![Disconnected dashboard - close up]({{ site.baseurl }}/assets/images/maserati-task04-006.jpg)
 
 You can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task05.html).
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-

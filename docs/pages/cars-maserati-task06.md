@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 6
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
 
 Mount the push button to the steering wheel
 
@@ -34,6 +33,3 @@ _Note that this is only required for cars that will be operated by hand._
 ## Verification
 
 After you confirm that the white tabs are aligned and extend above the white nut, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task07.html).
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-

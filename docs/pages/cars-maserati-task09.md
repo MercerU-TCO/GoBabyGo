@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 9
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
 
 Complete the steering wheel
 
@@ -28,6 +27,3 @@ Use the multimeter to test the wiring.
 
 
 After you confirm that steering wheel is completely assembled and that the wiring is correct, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task10.html).
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-

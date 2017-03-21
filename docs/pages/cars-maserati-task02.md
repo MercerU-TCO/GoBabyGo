@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 2
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
 
 Unpack the car and prepare it for assembly.
 
@@ -24,6 +23,3 @@ This task assumes that all preceding tasks have been completed.
 ## Validation
 
 After the car is out of the box and all the loose parts have been identified and stored, you can proceed to [the next task]({{ site.baseurl }}/pages/cars-maserati-task03.html).
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
-

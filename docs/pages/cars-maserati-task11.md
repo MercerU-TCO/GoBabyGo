@@ -1,9 +1,8 @@
 ---
 title: Maserati - Task 11
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
 
 Install the toggle switch assembly.
 
@@ -40,5 +39,3 @@ Use the multimeter to test the wiring.
 	2. With the switch in the OFF position, the meter should indicate continuity (by showing zero or almost zero ohms or beeping).<br>![Meter showing continutity]({{ site.baseurl }}/assets/images/metertest-short.jpg)
 
 After you confirm that toggle switch is wired correctly, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task12.html).
-
-<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
