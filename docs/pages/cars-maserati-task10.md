@@ -11,12 +11,12 @@ Assemble the toggle switch assembly
 1. Locate the 18-ga duplex wire and remove the silver foil shield from both ends.
 2. Clip the bare wire at the end of the gray insulation.
 3. On both ends of the 18-ga duplex wire, strip 1/2" of the insulation off of the end of each red and black wire. The photo shows how the duplex wire should look after you finish this step.<br>![Prepared cable assembly]({{ site.baseurl }}/assets/images/maserati-task10-001.jpg)
-4. Locate the toggle switch and use the #1 Phillips screwdriver to loosen each of the screws on the terminals of the switch.
+4. Locate the toggle switch and use the #2 Phillips screwdriver to loosen each of the screws on the terminals of the switch.
 5. On one end of the 18-ga duplex wire, bend the exposed parts of the red and black wires around the shaft of the #1 Phillips screwdriver to form a "J" shape.<br>![Wire formed in a j-shape]({{ site.baseurl }}/assets/images/maserati-task10-002.jpg)
-6. To the terminal of the switch marked "ON", attach the red wire to the screw terminal such that the insulated wire extends from the left side of the screw as shown in the preceding photo.
-7. Use the Phillips screwdriver to tighten the screw to hold the wire.
-6. To the terminal of the switch marked "OFF", attach the black wire to the screw terminal such that the wire extends from the left side of the screw.
-7. Use the Phillips screwdriver to tighten the screw to hold the wire.
+6. To the terminal on the side of the switch marked "ON", attach the red wire to the screw terminal such that the insulated wire extends from the left side of the screw as shown in the preceding photo.
+7. Use the #2 Phillips screwdriver to tighten the screw to hold the wire.
+6. To the terminal on the side of the switch marked "OFF", attach the black wire to the screw terminal such that the wire extends from the left side of the screw.
+7. Use the #2 Phillips screwdriver to tighten the screw to hold the wire.
 
 ## Verification
 
