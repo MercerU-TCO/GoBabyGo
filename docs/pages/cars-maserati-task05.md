@@ -1,9 +1,12 @@
 ---
 title: Maserati - Task 5
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Disconnect the foot pedal
+
+_This task is easier with two people._
 
 _Note that this is only required for cars that will be operated by hand._
 

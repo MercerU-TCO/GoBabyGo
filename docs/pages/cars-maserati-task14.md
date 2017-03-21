@@ -1,9 +1,12 @@
 ---
 title: Maserati - Task 14
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Assemble the modified dashboard
+
+_This task is easier with two people._
 
 ## Procedure
 

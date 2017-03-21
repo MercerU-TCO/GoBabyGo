@@ -1,6 +1,7 @@
 ---
 title: Maserati - Task 13
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Modify the dashboard wiring

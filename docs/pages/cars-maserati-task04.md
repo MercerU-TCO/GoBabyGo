@@ -1,6 +1,7 @@
 ---
 title: Maserati - Task 4
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Remove the dashboard
@@ -26,8 +27,7 @@ Remove the dashboard
 ## Verification
 
 After you make sure that:
-1. The dashboard is disconnected from the car
-2. The dashboard is stored in a safe place.
-3. The connectors on the car appear as in this photo<br />![Disconnected dashboard - close up]({{ site.baseurl }}/assets/images/maserati-task04-006.jpg)
+1. The dashboard is disconnected from the car and stored in a safe place.
+3. The connectors on the car appear as in this photo. <br />![Disconnected dashboard - close up]({{ site.baseurl }}/assets/images/maserati-task04-006.jpg)
 
 You can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task05.html).

@@ -6,9 +6,12 @@
   <body>
     <section class="main-content">
 	  <h1>{{ page.title }}</h1>
+	  <p class="returnLink"><a href="{{ site.baseurl}}{{ page.mainTaskPage }}">Return to main task list</a></p>
 	        
       {{ content }}
-	        
+	  
+	  <p class="returnLink"><a href="{{ site.baseurl}}{{ page.mainTaskPage }}">Return to main task list</a></p>
+      
 	  {% include page-footer.html %}
 
     </section>
