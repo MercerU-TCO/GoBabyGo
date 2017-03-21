@@ -3,6 +3,8 @@ title: Maserati - Task 10
 layout: topic
 ---
 
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
+
 Assemble the toggle switch assembly
 
 ## Procedure
@@ -30,3 +32,5 @@ Use the multimeter to test the wiring.
 	2. With the switch in the OFF position, the meter should indicate continuity (by showing zero or almost zero ohms or beeping).<br>![Meter showing continutity]({{ site.baseurl }}/assets/images/metertest-short.jpg)
 
 After you confirm that the wiring is correct with the multimeter, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task11.html).
+
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>

@@ -3,6 +3,8 @@ title: Maserati - Task 12
 layout: topic
 ---
 
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
+
 Connect battery and motor wires
 
 **Make sure that the [battery has been disconnected]({{ site.baseurl }}/pages/cars-maserati-task03.html "Disconnect the battery") before performing this step** 

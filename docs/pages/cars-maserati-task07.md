@@ -3,6 +3,8 @@ title: Maserati - Task 7
 layout: topic
 ---
 
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
+
 Wire the button on the steering wheel
 
 _This task is easier with two people._
@@ -49,3 +51,5 @@ Use the multimeter to test the wiring.
 
 
 After you confirm that the wiring is correct with the multimeter, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task08.html).
+
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>

@@ -3,6 +3,8 @@ title: Maserati - Task 4
 layout: topic
 ---
 
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
+
 Remove the dashboard
 
 **Make sure that the [battery has been disconnected]({{ site.baseurl }}/pages/cars-maserati-task03.html "Disconnect the battery") before performing this step** 
@@ -31,3 +33,6 @@ After you make sure that:
 3. The connectors on the car appear as in this photo<br />![Disconnected dashboard - close up]({{ site.baseurl }}/assets/images/maserati-task04-006.jpg)
 
 You can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task05.html).
+
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
+

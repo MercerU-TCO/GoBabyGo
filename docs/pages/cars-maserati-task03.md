@@ -3,6 +3,8 @@ title: Maserati - Task 3
 layout: topic
 ---
 
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
+
 Disconnect the battery 
 
 _Note: the battery may already be disconnected._ If you think that the battery is disconnected, skip to the **Verification** step below to be sure.
@@ -26,3 +28,6 @@ The battery is the black, rectangular object located under the seat and towards 
 ## Verification
 
 After the battery connector is disconnected and stowed behind the battery, you can proceed to [the next task]({{ site.baseurl }}/pages/cars-maserati-task04.html).
+
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
+

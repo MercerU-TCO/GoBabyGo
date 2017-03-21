@@ -3,6 +3,8 @@ title: Maserati - Task 13
 layout: topic
 ---
 
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
+
 Modify the dashboard wiring
 
 _Note that this is only required for cars that will be operated by hand._
@@ -19,3 +21,6 @@ _Note that this is only required for cars that will be operated by hand._
 
 
 After you confirm that connectors have been covered as shown in the photo, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task14.html).
+
+<p class="returnLink">[Return to main task list]({{ site.baseurl}}/pages/cars-maserati-tasks.html)<p>
+
