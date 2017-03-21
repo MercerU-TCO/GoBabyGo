@@ -1,6 +1,7 @@
 ---
 title: Maserati - Task 12
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Connect battery and motor wires
@@ -79,6 +80,5 @@ Visually confirm, and correct as required, the wiring as follows.
 2. Disconnect the battery cable connector in the battery compartment and store the connector on the battery cable behind the battery.
 3. Disconnect the dashboard connectors from the car.
 4. Remove the blocks holding up the rear of the car; however keep them handy for use in subsequent tasks.
-
 
 After you confirm that the wiring is correct with the multimeter and that the wheel turns in the correct direction, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task13.html).

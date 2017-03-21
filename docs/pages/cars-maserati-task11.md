@@ -1,9 +1,12 @@
 ---
 title: Maserati - Task 11
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Install the toggle switch assembly.
+
+_This task is easier with two people._
 
 **Make sure that the [battery has been disconnected]({{ site.baseurl }}/pages/cars-maserati-task03.html "Disconnect the battery") before performing this step** 
 

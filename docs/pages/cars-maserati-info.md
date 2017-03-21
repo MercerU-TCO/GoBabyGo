@@ -2,7 +2,10 @@
 title: Maserati
 layout: topic
 ---
+
 **Ordering info**: [Maserati Gran Turismo MC Centennial 6 Volt Powered Ride On - Red](http://www.toysrus.com/buy/1-rider/pacific-cycle-6-volt-maserati-gran-turismo-mc-centennial-powered-ride-on-red-kt1252tr-94666056)
+
+![Maserati in box]({{ site.baseurl }}/assets/images/maserati-info-001.jpg)
 
 ## Product info
 

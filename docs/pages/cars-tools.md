@@ -7,7 +7,7 @@ These are the tools that you'll need to assemble a _Go Baby Go!_ car.
 
 ## Tools used to assemble car
 
-![Tools]({{ site.baseurl }}/assets/images/maserati-tools.jpg)
+The numbers refer to the following photo.
 
 1. Magnetic parts collection cup
 2. Screwdriver adapter for drill and screwdriver tips
@@ -18,6 +18,8 @@ These are the tools that you'll need to assemble a _Go Baby Go!_ car.
 7. Wire strippers (that support stripping 12 - 18 AWG wire)
 8. Crimping tool 
 9. Drill bits (1/8", 1/4" required for this project)
+
+![Tools]({{ site.baseurl }}/assets/images/maserati-tools.jpg)
 
 ### Required tools not shown in the photo
 

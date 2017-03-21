@@ -1,6 +1,7 @@
 ---
 title: Maserati - Task 1
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Prepare work area to assemble car

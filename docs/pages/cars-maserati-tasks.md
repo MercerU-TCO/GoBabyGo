@@ -3,13 +3,14 @@ title: Maserati - Assembly Tasks
 layout: topic
 ---
 
-These tasks build and customize a [Maserati MC Stradale]({{ site.baseurl }}/pages/cars-maserati-info.html) for use as a _Go Baby Go!_ car.
+These tasks build and customize a [Maserati MC Stradale]({{ site.baseurl }}/pages/cars-maserati-info.html) for use as a _Go Baby Go!_ car. 
+
 
 ## Assemble car and modify wiring
 
-These tasks assemble a car from the box and modify the controls to enable hands-only use of the car. 
+These tasks start from a car in the box and end with a complete car with the controls modified to enable hands-only use of the car. 
 
-After you complete these tasks, you must fit the car to the child (described below) before he or she can drive it.
+After you complete the tasks in this section, before the child can drive it, you must fit the car to the child as described in the  section that follows.
 
 1. [Prepare work area to assemble car]({{ site.baseurl }}/pages/cars-maserati-task01.html)
 1. [Unpack the car and prepare it for assembly]({{ site.baseurl }}/pages/cars-maserati-task02.html)

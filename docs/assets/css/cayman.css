@@ -241,3 +241,5 @@ a {
   color: #819198; }
   
 li {margin-top: 1.0ex;}
+
+.returnLink { font-size: 80%; text-align: right }

@@ -1,9 +1,12 @@
 ---
 title: Maserati - Task 15
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Perform final assembly and electrical tests
+
+_This task is easier with two people._
 
 ## Procedure
 
@@ -26,7 +29,10 @@ Perform final assembly and electrical tests
 3. Set the toggle switch to **ON** and make sure the tires do not turn.
 4. Press the big, red button on the steering wheel.
 5. Verify the right rear tire is turning clockwise when the big, red button and stops turning when the button is released.
-	* **If the right rear tire does not behave as described, stop here and check your wiring!**
+	* **If the right rear tire does not rotate as described, stop here and check your wiring!**
+6. If the car works as it should:
+	* Press the button on the dashboard to turn off the car.
+	* Set the toggle switch to **OFF**.
 
 ## Preparation for delivery
 
@@ -36,4 +42,3 @@ Perform final assembly and electrical tests
 3. Place the seat over the battery compartment and fasten it to the car using the 1/4-turn screw in the back of the seat.
 
 After you confirm that the assembly is complete and the car functions correctly. You can [return to the task list for this car]({{ site.baseurl }}/pages/cars-maserati-tasks.html) to see the next tasks.
-

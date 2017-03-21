@@ -1,6 +1,7 @@
 ---
 title: Maserati - Task 6
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Mount the push button to the steering wheel

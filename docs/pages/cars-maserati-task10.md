@@ -1,6 +1,7 @@
 ---
 title: Maserati - Task 10
-layout: topic
+layout: topicTask
+mainTaskPage: /pages/cars-maserati-tasks.html
 ---
 
 Assemble the toggle switch assembly
