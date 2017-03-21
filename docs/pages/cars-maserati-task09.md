@@ -12,7 +12,7 @@ _Note that this is only required for cars that will be operated by hand._
 
 ## Procedure
 
-1. Replace the remaining seven (7) screws in the steering wheel and tighten them.
+1. Replace the remaining eight (8) screws in the steering wheel (4 in the center and 4 around the ring) and tighten them.
 
 ## Verification
 
