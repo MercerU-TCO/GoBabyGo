@@ -26,6 +26,6 @@ The battery is the black, rectangular object located under the seat and towards 
 
 ## Verification
 
-After the battery connector is disconnected and stowed behind the battery, you can proceed to [the next task]({{ site.baseurl }}/pages/cars-maserati-task04.html).
+After the battery connector is disconnected and stored behind the battery, you can proceed to [the next task]({{ site.baseurl }}/pages/cars-maserati-task04.html).
 
 
