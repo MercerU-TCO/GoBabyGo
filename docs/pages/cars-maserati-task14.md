@@ -5,6 +5,8 @@ layout: topic
 
 Assemble the modified dashboard
 
+_This task is easier with two people._
+
 ## Procedure
 
 1. Attach the windshield to the dashboard by fitting the windshield to the front of the dashboard.

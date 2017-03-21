@@ -5,6 +5,8 @@ layout: topic
 
 Unpack the car and prepare it for assembly.
 
+**! This task is easier with two people.**
+
 This task assumes that all preceding tasks have been completed.
 
 ![Maserati in box]({{ site.baseurl }}/assets/images/maserati-task02-001.jpg)

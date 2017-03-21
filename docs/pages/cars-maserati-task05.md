@@ -5,6 +5,8 @@ layout: topic
 
 Disconnect the foot pedal
 
+_This task is easier with two people._
+
 _Note that this is only required for cars that will be operated by hand._
 
 **Make sure that the [battery has been disconnected]({{ site.baseurl }}/pages/cars-maserati-task03.html "Disconnect the battery") before performing this step** 
