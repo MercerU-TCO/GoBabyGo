@@ -26,8 +26,8 @@ _Note that this is only required for cars that will be operated by hand._
 	1. Use the drill to make a 1" diameter hole. 
 	1. Test the hole size by inserting the threaded part of the push button. When the threaded part of the red push button can pass through the hole, you are finished drilling.
 7. On the face of the steering wheel cover, apply three (3) pieces of double-sided foam tape in a square around the 1" hole.<br> ![Tape placement on the steeting wheel cover]({{ site.baseurl }}/assets/images/maserati-task06-003.jpg)
-8. Insert the push button and base through the 1" hole making sure that the white tabs are vertical and aligned with the center steering wheel spoke.<br> ![White tab placement of push button on steering wheel]({{ site.baseurl }}/assets/images/maserati-task06-004.jpg)
-9. Make sure that the push button base is aligned correctly with the push button. **Make sure that the button fits completely into the base.** There should be no space between the ring around the red button and the base when completely assembled.<br>The photo shows an example of a button that is not correctly seated in the ring.<br> ![Incorrect button alignment in the ring]({{ site.baseurl }}/assets/images/maserati-task06-005.jpg)
+8. Insert the push button and base through the 1" hole making sure that the white tabs (indicated by the green arrows) are vertically aligned with the center steering wheel spoke.<br> ![White tab placement of push button on steering wheel]({{ site.baseurl }}/assets/images/maserati-task06-004a.jpg)
+9. Make sure that the push button base is aligned correctly with the push button. **Make sure that the button fits completely into the base.** There should be no space between the ring around the red button and the base when completely assembled.<br>The photo shows an example of a button that **is not** correctly seated in the ring.<br> ![Incorrect button alignment in the ring]({{ site.baseurl }}/assets/images/maserati-task06-005.jpg)
 10. When the push button base and the white tabs are properly aligned, tighten the white nut.
 
 ## Verification
