@@ -18,4 +18,4 @@ Prepare work area to assemble car
 
 ## Verification
 
-When you have collected the parts and tools and put the car on the table, you are ready to [continute to the next task]({{ site.baseurl }}/pages/cars-maserati-task02.html).
+When you have collected the parts and tools and put the car on the table, you are ready to continute to [the next task]({{ site.baseurl }}/pages/cars-maserati-task02.html).
