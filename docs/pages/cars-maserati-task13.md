@@ -18,5 +18,4 @@ _Note that this is only required for cars that will be operated by hand._
 1. Compare the 6-pin connector coming out of the car in front of the right door with this photo.<br>![6-pin connector from car body]({{ site.baseurl }}/assets/images/maserati-task13-001.jpg)
 2. Compare the 6-pin connector from the back of the dashboard with this photo.<br>![6-pin connector from dashboard]({{ site.baseurl }}/assets/images/maserati-task13-002.jpg)
 
-
-After you confirm that connectors have been covered as shown in the photo, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task14.html).
+After you confirm that connectors have been covered as shown in the photo, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task14.html).

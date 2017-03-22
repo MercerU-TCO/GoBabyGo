@@ -34,4 +34,4 @@ _Note that this is only required for cars that will be operated by hand._
 
 Confirm the button is correctly mounted in the ring and the white tabs on the back are aligned with the center spoke in the steering wheel cover. <br> ![White tab placement of push button on steering wheel]({{ site.baseurl }}/assets/images/maserati-task06-004.jpg)
 
-After you confirm that the white tabs are aligned and extend above the white nut, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task07.html).
+After you confirm that the white tabs are aligned and extend above the white nut, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task07.html).

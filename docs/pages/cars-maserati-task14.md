@@ -12,7 +12,7 @@ _This task is easier with two people._
 
 1. Attach the windshield to the dashboard by fitting the windshield to the front of the dashboard.
 2. Use the screws provided with the car to fasten the windshield to the rear of the dashboard.
-3. From the bottom of the dashboard, remove the three screws on the side of the dashboard with the cables, and remove the screw in the center of the dashboard. Save the screws in the magnetic parts bin.
+3. After the windshield is attached to the dashboard, from the bottom of the dashboard, remove the three screws on the side of the dashboard with the cables, and remove the screw in the center of the dashboard. Save the screws in the magnetic parts bin.<br>![Dashboard screws to remove]({{ site.baseurl }}/assets/images/maserati-task14-001.jpg)
 4. Store the taped connector inside the dashboard.
 5. Take the dashboard with windshield to the car and set it on top of the opening where it will go when assembled.
 6. Route the foot-pedal cable (the cable with a black, white, and a taped, red connector) through the hole in the dashboard with the cables.
@@ -20,10 +20,11 @@ _This task is easier with two people._
 	* The red wire from the steering wheel connects to the white wire of the foot-pedal cable and wrap the union in black vinyl electrical tape.
 	* The black wire from the steering wheel connects to the black wire of the foot-pedal cable and wrap the union in black vinyl electrical tape.
 	* The red wire from the foot-pedal cable should still be covered in black, vinyl electrical tape.
+	* **Note that at this point, the steering wheel will just hang from the dash and rest on the floor.** This is normal. The steering wheel will be attached in the next step.
 8. Reattach the back panel of the dashboard and replace the 4 screws removed in step 3.
 9. Connect the black connector from the dashboard to the corresponding black connector on the car.
 10. Connect the three-wire connector from the dashboard to the corresponding connector on the car.
-11. Place the dashboard and windshield in their location on the car and affix them with the two screws provided with the car.
+11. Place the dashboard and windshield in their location on the car and affix them to the car with the two screws provided with the car. Note that this is a tight fit and might take some effort. The photo shows the locations of the screws that secure the dashboard to the car body.<br>![Dashboard screws]({{ site.baseurl }}/assets/images/maserati-task14-002.jpg)
 
 ## Verification
 
@@ -48,5 +49,4 @@ _This task is easier with two people._
 3. Disconnect the dashboard connectors from the car.
 4. Remove the blocks holding up the rear of the car; however keep them handy for use in subsequent tasks.
 
-
-After you confirm that toggle switch is wired correctly, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task15.html).
+After you confirm that toggle switch is wired correctly, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task15.html).

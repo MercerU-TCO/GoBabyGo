@@ -38,4 +38,4 @@ Use the multimeter to test the wiring.
 	1. With the switch in the OFF position, the meter should not show continuity.<br>![Meter showing no continutity]({{ site.baseurl }}/assets/images/metertest-open.jpg)
 	2. With the switch in the OFF position, the meter should indicate continuity (by showing zero or almost zero ohms or beeping).<br>![Meter showing continutity]({{ site.baseurl }}/assets/images/metertest-short.jpg)
 
-After you confirm that toggle switch is wired correctly, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task12.html).
+After you confirm that toggle switch is wired correctly, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task12.html).
