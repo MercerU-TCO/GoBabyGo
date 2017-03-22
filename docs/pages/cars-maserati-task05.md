@@ -38,4 +38,4 @@ After you make sure that:
 	- If it isn't, you will need to feed the cable through the hole with the dashboard connectors.
 2. The terminal on the red wire is covered in black vinyl electrical tape.
 
-You can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task06.html).
+You can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task06.html).

@@ -30,4 +30,4 @@ After you make sure that:
 1. The dashboard is disconnected from the car and stored in a safe place.
 3. The connectors on the car appear as in this photo. <br />![Disconnected dashboard - close up]({{ site.baseurl }}/assets/images/maserati-task04-006.jpg)
 
-You can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task05.html).
+You can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task05.html).

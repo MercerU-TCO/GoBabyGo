@@ -23,6 +23,7 @@ _Note that this is only required for cars that will be operated by hand._
 5. Use the crimping tool to attach a red, male crimp terminals to the red wire.
 6. Use the crimping tool to attach a red, male crimp terminals to the black wire.
 6. After attaching the terminals, gently tug each of them to make sure they are attached.<br>![Tugging a terminal to test the crimp]({{ site.baseurl }}/assets/images/maserati-task08-001.jpg)
+	* If you can pull the terminal off of the wire, discard the terminal and crimp a new one more firmly.
 
 ## Verification
 
@@ -36,4 +37,4 @@ Use the multimeter to test the wiring.
 	2. Press the large red push button, and the meter should indicate continuity (by showing zero or almost zero ohms or beeping).<br>![Meter showing continutity]({{ site.baseurl }}/assets/images/metertest-short.jpg)
 
 
-After you confirm that the wiring is correct with the multimeter, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task09.html).
+After you confirm that the wiring is correct with the multimeter, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task09.html).

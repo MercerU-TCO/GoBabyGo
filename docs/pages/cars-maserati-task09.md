@@ -12,7 +12,7 @@ _Note that this is only required for cars that will be operated by hand._
 
 ## Procedure
 
-1. Replace the remaining seven (7) screws in the steering wheel and tighten them.
+1. Replace the remaining eight (8) screws in the steering wheel (4 in the center and 4 around the ring) and tighten them with a Phillips screwdriver.
 
 ## Verification
 
@@ -26,4 +26,4 @@ Use the multimeter to test the wiring.
 	2. Press the large red push button, and the meter should indicate continuity (by showing zero or almost zero ohms or beeping).<br>![Meter showing continutity]({{ site.baseurl }}/assets/images/metertest-short.jpg)
 
 
-After you confirm that steering wheel is completely assembled and that the wiring is correct, you can continue to the [next task]({{ site.baseurl }}/pages/cars-maserati-task10.html).
+After you confirm that steering wheel is completely assembled and that the wiring is correct, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task10.html).
