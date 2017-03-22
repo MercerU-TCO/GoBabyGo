@@ -13,8 +13,8 @@ Connect battery and motor wires
 11. Verify that the battery cable is disconnected and stored behind the battery. **DO NOT CUT THE BATTERY WIRES.**
 1. In the battery compartment, locate the white connectors with two wires: one blue and one white.
 2. Press the tab on the connectors and separate the two white connector shells.
-3. One of the connector shells is attached to a black cylinder in the battery compartment. This is the **motor-side** connector.
-4. The other connector shell is attached to a cable that goes into the car body. This is the **body-side** connector.
+3. One of the connector shells is attached to a cable that goes into the car body (Arrow #1). This is the **body-side** connector. a black cylinder in the battery compartment. This is the **motor-side** connector.
+4. The other connector shell is attached to a cable that connects to a black cylinder (Arrow #2) in the battery compartment. This is the **motor-side** connector.y<br>![Motor cable connectors]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
 5. On the motor-side, use the wire cutters to cut the wires as close to the connector as possible.
 6. On the body-side, use the wire cutters to cut the wires as close to the connector as possible. 
 7. On the body-side wires, while being careful not to nick the blue or white insulation, use your scissors or wire cutters to cut the black tubing back to where the wires enter the battery compartment.

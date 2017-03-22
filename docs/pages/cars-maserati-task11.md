@@ -15,7 +15,7 @@ _This task is easier with two people._
 1. With the car on its wheels, locate the center of the rear deck lid of the car and mark it with a marker. This point should be midway between the black spoiler and the black trim behind the seat and midway between the car's rear fenders.<br>![Toggle switch hole location]({{ site.baseurl }}/assets/images/maserati-task11-001.jpg)
 2. Mount the smaller step-drill bit in the drill.
 3. Use the drill and step-drill bit to make a 1/2" hole at the location marked in step 1.
-4. Remove the step drill bit and mount a 1/4" bit.
+4. Remove the step-drill bit and mount a 1/4" bit.
 5. In the rear of the battery compartment, above the battery, next to the battery hold-down bar, and on the side of the battery that does not have the battery wires, drill one 1/4" hole.<br>![Toggle switch duplex wire hole location]({{ site.baseurl }}/assets/images/maserati-task11-002.jpg)
 6. Remove the 1/4" bit and mount a 1/8" bit.
 7. In the rear of the battery compartment, midway between the battery hold-down bar and the top of the battery compartment, drill two 1/8" holes, 3/4" apart so that they are next to each other horizontally.<br>![Duplex wire tie-down hole locations]({{ site.baseurl }}/assets/images/maserati-task11-003.jpg)
