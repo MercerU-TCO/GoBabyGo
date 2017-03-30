@@ -19,7 +19,7 @@ These are the parts that you'll use to assemble a _Go Baby Go!_ car.
 ## Steering wheel "GO" button parts
 
 - Large red push button with SPDT illuminated switch
-- 10 uF electrolytic capacitor
+- 100 uF electrolytic capacitor
 - 1/2" double-sided foam tape (12")
 - 1/4" male spade terminal for 18-22 ga wire (2x)
 - 1/4" female spade terminal for 18-22 ga wire (2x)
