@@ -27,7 +27,7 @@ _Note that this is only required for cars that will be operated by hand._
 	2. Twist the strands of each of the bare wires to keep them together. **Do not twist the red and black wires together.**
 8. Locate the switch you removed from the push button.
 9. Refer to the photo to see how the switch will look when you finish these steps:
-	1. Bend the terminal closest to the black extrusion and bend it towards the black extrusion.
+	1. Locate the terminal closest to the black extrusion and bend it down, towards the black extrusion.
 	2. Cover the bent terminal with black vinyl tape.<br>![Switch assembly prepared]({{ site.baseurl }}/assets/images/maserati-task07-002.jpg)
 9. Refer to the photo to see how the switch will look when you finish these steps:
 	1. Connect the crimped terminal attached to the red wire to the metal terminal on the switch that is farthest from the black extrusion.
