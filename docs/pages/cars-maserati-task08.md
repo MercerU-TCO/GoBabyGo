@@ -13,12 +13,13 @@ _Note that this is only required for cars that will be operated by hand._
 ## Procedure 
 
 1. On the free end of the steering wheel's duplex wire, twist the red and black wires together slightly.
-2. Taper the gray insulation of the 18-ga duplex wire at the free end of the wire
-2. Insert the twisted wires through the hole in the steering wheel base
+2. Taper the gray insulation of the 18-ga duplex wire at the free end of the wire.
+2. Insert the twisted wires through the hole in the steering wheel base.
 3. Pull the wire through as you close the steering wheel cover on to the base. 
 	1. Be careful to align the spokes of the steering wheel cover to those of the base.
-	2. Be careful to not pull too hard on the 18-ga duplex wire as that might disconnect the wire from the push button
-3. When the cover is fitted to the base, insert three (3) screws evenly around the ring of the steering wheel
+	2. Be careful to not pull too hard on the 18-ga duplex wire as that might disconnect the wire from the push button.
+	3. Guide the unconnected black wire from the steering wheel cover to inside the base as the two pieces come together.
+3. When the cover is fitted to the base, insert three (3) screws evenly around the ring of the steering wheel.
 4. Untwist the red and black wires so they are separate, again.
 5. Use the crimping tool to attach a red, male crimp terminals to the red wire.
 6. Use the crimping tool to attach a red, male crimp terminals to the black wire.
