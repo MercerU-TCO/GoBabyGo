@@ -45,8 +45,6 @@ _This task is easier with two people._
 
 1. Verify the car's power switch on the dashboard is off.
 2. Verify the toggle switch is off.
-2. Disconnect the battery cable connector in the battery compartment and store the connector on the battery cable behind the battery.
-3. Disconnect the dashboard connectors from the car.
-4. Remove the blocks holding up the rear of the car; however keep them handy for use in subsequent tasks.
+3. Remove the blocks holding up the rear of the car; however keep them handy for use in subsequent tasks.
 
 After you confirm that toggle switch is wired correctly, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task15.html).
