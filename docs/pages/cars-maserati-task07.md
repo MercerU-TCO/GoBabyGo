@@ -12,17 +12,17 @@ _Note that this is only required for cars that will be operated by hand._
 
 ## Procedure
 
-1. Locate the 18-ga duplex wire and remove the foil shielding from both ends.
-2. On one end of the 18-ga duplex wire:<br>For these steps, refer to the photo, which shows how the end of the wire will look after you complete them.
+1. Locate the 16" 18-ga duplex wire and remove the foil shielding from both ends.
+2. On one end of the 16" 18-ga duplex wire:<br>For these steps, refer to the photo, which shows how the end of the wire will look after you complete them.
 	3. Use the wire cutters to cut the black wire 3/8" shorter than the red wire.
 	4. Use the wire strippers to remove 1/4" of insulation from the red wire and the black wire.
-	5. Locate the capacitor and then find the negative (shorter) lead on the capacitor. The photo shows the capacitor correctly aligned with the red and black wires of the duplex wire. <br>![Duplex wire and capacitor]({{ site.baseurl }}/assets/images/maserati-task07-005.jpg)
+	5. Locate the capacitor and then find the negative (shorter) lead on the capacitor. The photo shows the capacitor correctly aligned with the red and black wires of the 16" duplex wire. <br>![Duplex wire and capacitor]({{ site.baseurl }}/assets/images/maserati-task07-005.jpg)
 	6. Twist the end of the long (+) lead of the capacitor together with the stripped end of the red wire. Only twist the bare wires.
 	6. Use the crimp tool to crimp a red, female terminal to the twisted wires.
 	7. Twist the end of the short (-) lead of the capacitor together with the stripped end of the black wire. Only twist the bare wires.
 	6. Use the crimp tool to crimp a red, female terminal to the twisted wires.
 	7. Test the connectors that you just attached by gently pulling on them. They should not slip off.<br>![Finished cable assembly]({{ site.baseurl }}/assets/images/maserati-task07-001.jpg)
-8. On the other end of the 18-ga duplex wire:
+8. On the other end of the 16" 18-ga duplex wire:
 	1. Remove 1/4" of insulation from each of the red and the black wires.
 	2. Twist the strands of each of the bare wires to keep them together. **Do not twist the red and black wires together.**
 8. Locate the switch you removed from the push button.
