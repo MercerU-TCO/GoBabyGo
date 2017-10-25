@@ -12,7 +12,7 @@ _This task is easier with two people._
 
 1. Attach the steering control:
 	1. Route the long, straight end of the steering control arm from the bottom of the car through to the dashboard such that the short end fits into the steering linkage of the car.
-	2. Route the duplex wire from the modified steering wheel into the dashboard and use the screw and bolt provided with the car to attach the modified steering wheel to the steering control arm.
+	2. Route the 16" duplex wire from the modified steering wheel into the dashboard and use the screw and bolt provided with the car to attach the modified steering wheel to the steering control arm.
 	3. Verify the steering wheel moves the front wheels through their full range of motion from left to right.
 4. Affix the MUSE logo to the hood of the car.
 
