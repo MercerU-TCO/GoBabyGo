@@ -28,6 +28,8 @@ Connect battery and motor wires
 14. On the black power wire, about 1-1/2" from the body (1/2" from the end of the black tubing), attach the tap end of a posi-tap connector. To the splice end of that connector, attach the end of the blue, body-side wire.
 15. At this point, the power cable wires (inducated by the arrow) and posi-tap connectors should look like the photo. <br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
 
+16. **The Diode assembly is installed at this point. Check with the instructors for how to install it before continuing.**
+
 ## Verification
 
 Perform these verification tests and steps in the order they are shown here.
