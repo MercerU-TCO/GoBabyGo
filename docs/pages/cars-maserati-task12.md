@@ -8,6 +8,8 @@ Connect battery and motor wires
 
 **Make sure that the [battery has been disconnected]({{ site.baseurl }}/pages/cars-maserati-task03.html "Disconnect the battery") before performing this step** 
 
+**UPDATE: One  more step has been added below.**
+
 ## Procedure
 
 11. Verify that the battery cable is disconnected and stored behind the battery. **DO NOT CUT THE BATTERY WIRES.**
@@ -27,6 +29,8 @@ Connect battery and motor wires
 13. On the red power wire, about 2" from the body (1" from the end of the black tubing), attach the tap end of a posi-tap connector. To the splice end of that connector, attach the white wire from the motor-side wire.
 14. On the black power wire, about 1-1/2" from the body (1/2" from the end of the black tubing), attach the tap end of a posi-tap connector. To the splice end of that connector, attach the end of the blue, body-side wire.
 15. At this point, the power cable wires (inducated by the arrow) and posi-tap connectors should look like the photo. <br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
+
+16. **UPDATE: The Diode assembly is installed at this point. Check with the instructors for how to install it before continuing.**
 
 ## Verification
 

@@ -12,12 +12,14 @@ _Note that this is only required for cars that will be operated by hand._
 
 ## Procedure
 
+**UPDATE: Do not attach the capacitor--it is no longer needed.**
+
 1. Locate the 16" 18-ga duplex wire and remove the foil shielding from both ends.
 2. Remove 3" of gray sheath from wire.
 3. Remove foil and bare wire to end of gray sheath.
 4. On one end of the 16" 18-ga duplex wire:<br>For these steps, refer to the photo, which shows how the end of the wire will look after you complete them.
 	5. Use the wire cutters to cut the black wire 3/8" shorter than the red wire.
-	6. Use the wire strippers to remove 1/4" of insulation from the red wire and the black wire.
+	6. Use the wire strippers to remove 1/4" of insulation from the red wire and the black wire.	
 	7. Locate the capacitor and then find the negative (shorter) lead on the capacitor. The photo shows the capacitor correctly aligned with the red and black wires of the 16" duplex wire. <br>![Duplex wire and capacitor]({{ site.baseurl }}/assets/images/maserati-task07-005.jpg)
 	8. Twist the end of the long (+) lead of the capacitor together with the stripped end of the red wire. Only twist the bare wires.
 	8. Use the crimp tool to crimp a red, female terminal to the twisted wires.
