@@ -20,15 +20,15 @@ Connect battery and motor wires
 5. On the motor-side, use the wire cutters to cut the wires as close to the connector as possible.
 6. On the body-side, use the wire cutters to cut the wires as close to the connector as possible. 
 7. On the body-side wires, while being careful not to nick the blue or white insulation, use your scissors or wire cutters to cut the black tubing back to where the wires enter the battery compartment.
-7. On each of the blue and white wires that you just cut, use your wire strippers to remove 3/8"-1/2" of the insulation to expose the wire inside.
+7. On each of the blue and white wires that you just cut, use your [wire strippers](https://youtu.be/znljircthKs) to remove 3/8"-1/2" of the insulation to expose the wire inside.
 8. On the red and the black wires of the 22" duplex wire that is connected to the toggle switch, remove 3/8"-1/2" of the insulation to expose the wire inside.
-9. On end of the white, body-side wire, attach one end of a red posi-lock splice. On the other side of that splice, attach the red wire from the 22" duplex wire.
-10. On the end of the blue, motor-side wire, attach one end of a red posi-lock splice. On the other side of that splice, attach the black wire from the 22" duplex wire. After this step, the ends of the 22" duplex wire (indicated by the arrow) should be connected as shown in the photo.<br>![Duplex wire connections]({{ site.baseurl }}/assets/images/maserati-task12-001.jpg)
+9. On end of the white, body-side wire, attach one end of a red [posi-lock splice](https://youtu.be/XDN-3-rCJEc). On the other side of that splice, attach the red wire from the 22" duplex wire.
+10. On the end of the blue, motor-side wire, attach one end of a red [posi-lock splice](https://youtu.be/XDN-3-rCJEc). On the other side of that splice, attach the black wire from the 22" duplex wire. After this step, the ends of the 22" duplex wire (indicated by the arrow) should be connected as shown in the photo.<br>![Duplex wire connections]({{ site.baseurl }}/assets/images/maserati-task12-001.jpg)
 11. Locate the car's power cable. It is the red and black wires that are connected to the orange connector that was disconnected from the battery cable. **REMEMBER: Do not cut the wires that are connected to the battery!**
 12. Remove the black tubing from the car's power cable to leave about 1" from where the cable goes into the body.
-13. On the red power wire, about 2" from the body (1" from the end of the black tubing), attach the tap end of a posi-tap connector. To the splice end of that connector, attach the white wire from the motor-side wire.
-14. On the black power wire, about 1-1/2" from the body (1/2" from the end of the black tubing), attach the tap end of a posi-tap connector. To the splice end of that connector, attach the end of the blue, body-side wire.
-15. At this point, the power cable wires (inducated by the arrow) and posi-tap connectors should look like the photo. <br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
+13. On the red power wire, about 2" from the body (1" from the end of the black tubing), attach the tap end of a [posi-tap](https://youtu.be/xxSNKLTfojQ) connector. To the splice end of that connector, attach the white wire from the motor-side wire.
+14. On the black power wire, about 1-1/2" from the body (1/2" from the end of the black tubing), attach the tap end of a [posi-tap](https://youtu.be/xxSNKLTfojQ) connector. To the splice end of that connector, attach the end of the blue, body-side wire.
+15. At this point, the power cable wires (inducated by the arrow) and [posi-tap](https://youtu.be/xxSNKLTfojQ) connectors should look like the photo. <br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
 
 16. **UPDATE: The Diode assembly is installed at this point. Check with the instructors for how to install it before continuing.**
 
@@ -40,11 +40,11 @@ Perform these verification tests and steps in the order they are shown here.
 Visually confirm, and correct as required, the wiring as follows.
 
 1. Confirm that the duplex wires are connected as shown in this photo.<br>![Duplex wire connections]({{ site.baseurl }}/assets/images/maserati-task12-001.jpg)
-	1. The red duplex wire from the switch is connected through a posi-lock splice to the white, body-side wire.
-	2. The black duplex wire from the switch is connected through a posi-lock splice to the black, motor-side wire.
+	1. The red duplex wire from the switch is connected through a [posi-lock splice](https://youtu.be/XDN-3-rCJEc) to the white, body-side wire.
+	2. The black duplex wire from the switch is connected through a [posi-lock splice](https://youtu.be/XDN-3-rCJEc) to the black, motor-side wire.
 2. Confirm that the power cable connections are correct as shown in this photo.<br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
-	3. The white, motor-side wire is connected to posi-tap on the red power wire.
-	4. The blue, body-side wire is connected to the posi-tap on the black power wire.
+	3. The white, motor-side wire is connected to [posi-tap](https://youtu.be/xxSNKLTfojQ) on the red power wire.
+	4. The blue, body-side wire is connected to the [posi-tap](https://youtu.be/xxSNKLTfojQ) on the black power wire.
 
 ### Electrical test
 

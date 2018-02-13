@@ -13,8 +13,8 @@ _This task is easier with two people._
 ## Procedure
 
 1. With the car on its wheels, locate the center of the rear deck lid of the car and mark it with a marker. This point should be midway between the black spoiler and the black trim behind the seat and midway between the car's rear fenders.<br>![Toggle switch hole location]({{ site.baseurl }}/assets/images/maserati-task11-001.jpg)
-2. Mount the smaller step-drill bit in the drill.
-3. Use the drill and step-drill bit to make a 1/2" hole at the location marked in step 1.
+2. [Mount the smaller step-drill bit in the drill](https://youtu.be/7LmCc1eyRnk) in the drill.
+3. [Use the drill](https://youtu.be/EBJPVXFdtkw) and step-drill bit to make a 1/2" hole at the location marked in step 1.
 4. Remove the step-drill bit and mount a 1/4" bit.
 5. In the rear of the battery compartment, above the battery, next to the battery hold-down bar, and on the side of the battery that does not have the battery wires, drill one 1/4" hole.<br>![Toggle switch duplex wire hole location]({{ site.baseurl }}/assets/images/maserati-task11-002.jpg)
 6. Remove the 1/4" bit and mount a 1/8" bit.
@@ -29,6 +29,8 @@ _This task is easier with two people._
 
 ## Verification
 Use the multimeter to test the wiring.
+
+[Short video on using the multimeter to measure continuity](https://youtu.be/x3cjTQxXr0g)
 
 1. On the multimeter, select "Ohms" (or continuity). This is usually indicated by the Greek letter omega (&#937;) for Ohms.<br>![Ohms setting on meter]({{ site.baseurl }}/assets/images/metertest-ohms.jpg)
 2. At the end of the 22" 18-ga duplex wire that's not connected to the switch: 

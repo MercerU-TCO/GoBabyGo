@@ -17,25 +17,22 @@ _Note that this is only required for cars that will be operated by hand._
 1. Locate the 16" 18-ga duplex wire and remove the foil shielding from both ends.
 2. Remove 3" of gray sheath from wire.
 3. Remove foil and bare wire to end of gray sheath.
-4. On one end of the 16" 18-ga duplex wire:<br>For these steps, refer to the photo, which shows how the end of the wire will look after you complete them.
+4. On one end of the 16" 18-ga duplex wire:
 	5. Use the wire cutters to cut the black wire 3/8" shorter than the red wire.
-	6. Use the wire strippers to remove 1/4" of insulation from the red wire and the black wire.	
-	7. Locate the capacitor and then find the negative (shorter) lead on the capacitor. The photo shows the capacitor correctly aligned with the red and black wires of the 16" duplex wire. <br>![Duplex wire and capacitor]({{ site.baseurl }}/assets/images/maserati-task07-005.jpg)
-	8. Twist the end of the long (+) lead of the capacitor together with the stripped end of the red wire. Only twist the bare wires.
-	8. Use the crimp tool to crimp a red, female terminal to the twisted wires.
-	9. Twist the end of the short (-) lead of the capacitor together with the stripped end of the black wire. Only twist the bare wires.
-	8. Use the crimp tool to crimp a red, female terminal to the twisted wires.
-	9. Test the connectors that you just attached by gently pulling on them. They should not slip off.<br>![Finished cable assembly]({{ site.baseurl }}/assets/images/maserati-task07-001.jpg)
+	6. Use the [wire strippers](https://youtu.be/znljircthKs) to remove 1/4" of insulation from the red wire and the black wire.	
+	8. Use the crimp tool to [crimp](https://youtu.be/znWw6qUWQW0) a red , female terminal to the longer wire.
+	8. Use the crimp tool to [crimp](https://youtu.be/znWw6qUWQW0) a red, female terminal to the shorter wires.
+	9. Test the connectors that you just attached by gently pulling on them. They should not slip off.
 10. On the other end of the 16" 18-ga duplex wire:
 	1. Remove 1/4" of insulation from each of the red and the black wires.
 	2. Twist the strands of each of the bare wires to keep them together. **Do not twist the red and black wires together.**
 10. Locate the switch you removed from the push button.
 11. Refer to the photo to see how the switch will look when you finish these steps:
 	1. Locate the terminal closest to the black extrusion and bend it down, towards the black extrusion.
-	2. Cover the bent terminal with black vinyl tape.<br>![Switch assembly prepared]({{ site.baseurl }}/assets/images/maserati-task07-002.jpg)
-11. Refer to the photo to see how the switch will look when you finish these steps:
-	1. Connect the crimped terminal attached to the red wire to the metal terminal on the switch that is farthest from the black extrusion.
-	2. Connect the crimped terminal attached to the black wire to the metal terminal that is next to the taped terminal.<br>![Finished switch assembly]({{ site.baseurl }}/assets/images/maserati-task07-003.jpg)
+	2. Cover the bent terminal with [black vinyl electrical tape](https://youtu.be/YtZQfntDxcY).<br>![Switch assembly prepared]({{ site.baseurl }}/assets/images/maserati-task07-002.jpg)
+11. Connect the end with the [crimp](https://youtu.be/znWw6qUWQW0)ed terminals to the switch:
+	1. Connect the [crimp](https://youtu.be/znWw6qUWQW0)ed terminal attached to the red wire to the metal terminal on the switch that is farthest from the black extrusion.
+	2. Connect the crimped terminal attached to the black wire to the metal terminal that is next to the taped terminal.
 15. Replace the switch in the push button by:
 	1. Inserting the switch with the wires oriented along the center spoke of the steering wheel.
 	2. Orient the switch about 1/8 of a turn to the left of center.
@@ -47,6 +44,8 @@ _Note that this is only required for cars that will be operated by hand._
 ## Verification
 
 Use the multimeter to test the wiring.
+
+[Short video on using the multimeter to measure continuity](https://youtu.be/x3cjTQxXr0g)
 
 1. On the multimeter, select "Ohms" (or continuity). This is usually indicated by the Greek letter omega (&#937;) for Ohms.<br>![Ohms setting on meter]({{ site.baseurl }}/assets/images/metertest-ohms.jpg)
 2. Place the red lead of the meter on the bare wire of the red wire.
