@@ -15,7 +15,7 @@ The numbers refer to the following photo.
 4. Step-drill bit (that makes at least 1" diameter hole)
 5. #1 Phillips screwdriver
 6. 3/8" variable-speed drill (cordless, preferred)
-7. Wire strippers (that support stripping 12 - 18 AWG wire)
+7. [Wire strippers](https://youtu.be/znljircthKs) (that support stripping 12 - 18 AWG wire)
 8. Crimping tool 
 9. Drill bits (1/8", 1/4" required for this project)
 

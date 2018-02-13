@@ -21,14 +21,16 @@ _Note that this is only required for cars that will be operated by hand._
 	3. Guide the unconnected black wire from the steering wheel cover to inside the base as the two pieces come together.
 3. When the cover is fitted to the base, insert three (3) screws evenly around the ring of the steering wheel.
 4. Untwist the red and black wires so they are separate, again.
-5. Use the crimping tool to attach a red, male crimp terminals to the red wire.
-6. Use the crimping tool to attach a red, male crimp terminals to the black wire.
+5. Use the crimping tool to attach a red, male [crimp](https://youtu.be/znWw6qUWQW0) terminals to the red wire.
+6. Use the crimping tool to attach a red, male [crimp](https://youtu.be/znWw6qUWQW0) terminals to the black wire.
 6. After attaching the terminals, gently tug each of them to make sure they are attached.<br>![Tugging a terminal to test the crimp]({{ site.baseurl }}/assets/images/maserati-task08-001.jpg)
-	* If you can pull the terminal off of the wire, discard the terminal and crimp a new one more firmly.
+	* If you can pull the terminal off of the wire, discard the terminal and [crimp](https://youtu.be/znWw6qUWQW0) a new one more firmly.
 
 ## Verification
 
 Use the multimeter to test the wiring.
+
+[Short video on using the multimeter to measure continuity](https://youtu.be/x3cjTQxXr0g)
 
 1. On the multimeter, select "Ohms" (or continuity). This is usually indicated by the Greek letter omega (&#937;) for Ohms.<br>![Ohms setting on meter]({{ site.baseurl }}/assets/images/metertest-ohms.jpg)
 2. Place the red lead of the meter on the metal terminal of the red wire.

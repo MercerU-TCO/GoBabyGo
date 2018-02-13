@@ -20,10 +20,10 @@ _Note that this is only required for cars that will be operated by hand._
 	3.  Be careful to keep the switch base ring together with the red push button.
 4. Use a flat-tip screwdriver to remove the Maserati emblem that is stuck to the steering wheel cover.
 5. On the large step-drill bit, locate the 1" diameter step and mark it with blue masking tape.
-5. Mount the large step-drill bit in the drill. The drill and bit should look like the photo.<br>![Cordless drill with marked step-drill bit]({{ site.baseurl }}/assets/images/maserati-task06-002.jpg)
+5. [Mount the large step-drill bit in the drill](https://youtu.be/7LmCc1eyRnk). The drill and bit should look like the photo.<br>![Cordless drill with marked step-drill bit]({{ site.baseurl }}/assets/images/maserati-task06-002.jpg)
 6. Position the steering wheel cover such that there is nothing below the emblem recess in the steering wheel cover so that you can drill through it safely.
 6. In the center of the emblem recess on the steering wheel cover:
-	1. Use the drill to make a 1" diameter hole. 
+	1. [Use the drill](https://youtu.be/EBJPVXFdtkw) to make a 1" diameter hole. 
 	1. Test the hole size by inserting the threaded part of the push button. When the threaded part of the red push button can pass through the hole, you are finished drilling.
 7. On the face of the steering wheel cover, apply three (3) pieces of double-sided foam tape in a square around the 1" hole.<br> ![Tape placement on the steeting wheel cover]({{ site.baseurl }}/assets/images/maserati-task06-003.jpg)
 8. Remove the protective film from the double-sided foam tape and insert the push button and base through the 1" hole. Make sure that the white tabs (indicated by the green arrows) are vertically aligned with the center steering wheel spoke.<br> ![White tab placement of push button on steering wheel]({{ site.baseurl }}/assets/images/maserati-task06-004a.jpg)
