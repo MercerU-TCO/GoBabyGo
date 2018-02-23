@@ -13,7 +13,7 @@ _This task is easier with two people._
 1. Attach the windshield to the dashboard by fitting the windshield to the front of the dashboard.
 2. Use the screws provided with the car to fasten the windshield to the rear of the dashboard.
 
-**IF YOU ARE WORKING ON A PINK CAR SKIP THIS SECTION**
+**IF YOU ARE WORKING ON A PINK CAR SKIP THE NEXT TWO STEPS**
 
 _These steps are for red cars only_
 
