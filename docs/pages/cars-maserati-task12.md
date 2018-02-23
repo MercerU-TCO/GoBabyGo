@@ -30,7 +30,13 @@ Connect battery and motor wires
 14. On the black power wire, about 1-1/2" from the body (1/2" from the end of the black tubing), attach the tap end of a [posi-tap](https://youtu.be/xxSNKLTfojQ) connector. To the splice end of that connector, attach the end of the blue, body-side wire.
 15. At this point, the power cable wires (inducated by the arrow) and [posi-tap](https://youtu.be/xxSNKLTfojQ) connectors should look like the photo. <br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
 
-16. **UPDATE: The Diode assembly is installed at this point. Check with the instructors for how to install it before continuing.**
+16. Locate the blue and white wires that come out from the motor.
+17. Attach a blue posi-tap connector to each of the wires that come out of the motor, about 1" from the motor (refer to the photo below).
+18. On the diode assembly, use the wire stripper to remove about 1/4" of insulation from the blue and the white wires.
+19. Connect the blue wire from the diode assembly to the posi-tap you connected to the blue wire on the motor.
+19. Connect the white wire from the diode assembly to the posi-tap you connected to the white wire on the motor.
+
+![protection diode on motor]({{ site.baseurl }}/assets/images/maserati-task12-004.JPG)
 
 ## Verification
 
