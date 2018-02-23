@@ -1,5 +1,5 @@
----
-title: Maserati - Task 13
+--- 
+title: Maserati - Task 13 - Red
 layout: topicTask
 mainTaskPage: /pages/cars-maserati-tasks.html
 ---
@@ -11,6 +11,8 @@ _Note that this is only required for cars that will be operated by hand._
 ## RED MASERATI
 
 **THIS PROCEDURE APPLIES ONLY TO RED CARS!**
+Visit [Maserati - Task 13 - Pink]({{ site.baseurl }}/pages/cars-maserati-task3-pink.html) if you have a pink Maserati.
+
 
 ### Procedure
 
