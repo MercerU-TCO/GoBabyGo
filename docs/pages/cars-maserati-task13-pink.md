@@ -25,7 +25,7 @@ Visit [Maserati - Task 13 - Red]({{ site.baseurl }}/pages/cars-maserati-task3-re
 6. Connect a blue posi-tap connector to the black wire that goes between the push button and the forward/reverse switch.
 7. Remove 1/4" of insulation from the black wire you cut from the forward/reverse switch and connect it to the posi-tap you attached to the black wire.
 8. Remove 1/4" of insulation from the red wire you cut from the forward/reverse switch and connect it to the posi-tap you attached to the white wire.
-[forward/reverse switch]({{ site.baseurl }}/assets/images/maserati-task13-p02.JPG)
+![forward/reverse switch with new taps]({{ site.baseurl }}/assets/images/maserati-task13-p02.JPG)
 
 ### Verification
 
