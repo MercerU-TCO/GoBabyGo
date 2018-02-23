@@ -12,8 +12,16 @@ _This task is easier with two people._
 
 1. Attach the windshield to the dashboard by fitting the windshield to the front of the dashboard.
 2. Use the screws provided with the car to fasten the windshield to the rear of the dashboard.
+
+**IF YOU ARE WORKING ON A PINK CAR SKIP THE NEXT TWO STEPS**
+
+_These steps are for red cars only_
+
 3. After the windshield is attached to the dashboard, from the bottom of the dashboard, remove the three screws on the side of the dashboard with the cables, and remove the screw in the center of the dashboard. Save the screws in the magnetic parts bin.<br>![Dashboard screws to remove]({{ site.baseurl }}/assets/images/maserati-task14-001.jpg)
 4. Store the taped connector inside the dashboard.
+
+_All cars continue from here_
+
 5. Take the dashboard with windshield to the car and set it on top of the opening where it will go when assembled.
 6. Route the foot-pedal cable (the cable with a black, white, and a taped, red connector) through the hole in the dashboard with the cables.
 7. Connect the wires from the modified steering wheel to the foot-pedal cable such that:
