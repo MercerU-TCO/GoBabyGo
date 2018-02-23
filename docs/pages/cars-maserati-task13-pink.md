@@ -18,12 +18,14 @@ Visit [Maserati - Task 13 - Red]({{ site.baseurl }}/pages/cars-maserati-task3-re
 
 1. From the back of the dashboard, remove the seven (7) screws that hold the back panel on.
 2. Locate the connector that is attached to the back of the forward/reverse switch as shown in the photo.
+![forward/reverse switch]({{ site.baseurl }}/assets/images/maserati-task13-p01.JPG)
 3. As close to the connector as possible, cut the long red and long black wires that connect to the forward/reverse switch.
 4. Locate the black and white wires that connect to the on/off push button.
 5. Connect a blue posi-tap connector to the white wire that goes between the push button and the forward/reverse switch.
 6. Connect a blue posi-tap connector to the black wire that goes between the push button and the forward/reverse switch.
 7. Remove 1/4" of insulation from the black wire you cut from the forward/reverse switch and connect it to the posi-tap you attached to the black wire.
 8. Remove 1/4" of insulation from the red wire you cut from the forward/reverse switch and connect it to the posi-tap you attached to the white wire.
+[forward/reverse switch]({{ site.baseurl }}/assets/images/maserati-task13-p02.JPG)
 
 ### Verification
 
