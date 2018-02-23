@@ -11,7 +11,7 @@ _Note that this is only required for cars that will be operated by hand._
 ## PINK MASERATI
 
 **THIS PROCEDURE APPLIES ONLY TO PINK CARS!**
-Visit [Maserati - Task 13 - Red]({{ site.baseurl }}/pages/cars-maserati-task3-red.html) if you have a red Maserati.
+Visit [Maserati - Task 13 - Red]({{ site.baseurl }}/pages/cars-maserati-task13-red.html) if you have a red Maserati.
 
 
 ### Procedure
@@ -30,7 +30,7 @@ Visit [Maserati - Task 13 - Red]({{ site.baseurl }}/pages/cars-maserati-task3-re
 ### Verification
 
 1. Set the multi-meter to ohms.
-2. On the 4-pin connector, touch one probe to the pin attached to the red wire and the other to the pin attached to the black wire.
+2. On the 4-pin connector, touch one probe to the pin attached to the red wire and the other to the pin attached to the white wire.
 3. The ohmmeter should show contiutity as you push the on/off button (one push should show continuity, another push should show an open circuit.
 
 After you confirm that the posi-tap connectors have been attached as shown in the photo, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task14.html).
