@@ -30,7 +30,13 @@ Connect battery and motor wires
 14. On the black power wire, about 1-1/2" from the body (1/2" from the end of the black tubing), attach the tap end of a [posi-tap](https://youtu.be/xxSNKLTfojQ) connector. To the splice end of that connector, attach the end of the blue, body-side wire.
 15. At this point, the power cable wires (inducated by the arrow) and [posi-tap](https://youtu.be/xxSNKLTfojQ) connectors should look like the photo. <br>![Power cable connections]({{ site.baseurl }}/assets/images/maserati-task12-002.jpg)
 
-16. **UPDATE: The Diode assembly is installed at this point. Check with the instructors for how to install it before continuing.**
+16. Locate the blue and white wires that come out from the motor.
+17. Attach a blue posi-tap connector to each of the wires that come out of the motor, about 1" from the motor (refer to the photo below).
+18. On the diode assembly, use the wire stripper to remove about 1/4" of insulation from the blue and the white wires.
+19. Connect the blue wire from the diode assembly to the posi-tap you connected to the blue wire on the motor.
+19. Connect the white wire from the diode assembly to the posi-tap you connected to the white wire on the motor.
+
+![protection diode on motor]({{ site.baseurl }}/assets/images/maserati-task12-004.JPG)
 
 ## Verification
 
@@ -47,6 +53,10 @@ Visually confirm, and correct as required, the wiring as follows.
 	4. The blue, body-side wire is connected to the [posi-tap](https://youtu.be/xxSNKLTfojQ) on the black power wire.
 
 ### Electrical test
+
+_Note that this is only for RED cars._
+**DO NOT PERFORM THIS TEST ON PINK CARS!!!**
+If you are working on a pink car, continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task13-pink.html) from here. If you have a red car, continue with the test.
 
 1. Locate the dashboard and place it on top of the car. 
 2. Connect the three-wire connector from the dashboard to the corresponding connector that is coming out of the car.
@@ -69,8 +79,8 @@ Visually confirm, and correct as required, the wiring as follows.
 
 1. After successful visual and electrical tests, place a block under the car to lift the rear tires off the table so that they are not touching anything. **IF THE REAR TIRES ARE IN CONTACT WITH ANYTHING, THE CAR COULD MOVE OFF THE WORK SPACE!**
 2. With the toggle switch **OFF**, connect the modified steering wheel such that:
-	1. The red duplex wire is connected to the white foot-pedal wire (that is not coming out of the hole with the dashboard connectors).
-	2. The black duplex wire is connected to the black foot-pedal wire.
+	1. One of the duplex wires is connected to the white foot-pedal wire (that is not coming out of the hole with the dashboard connectors).
+	2. The other duplex wire is connected to the black foot-pedal wire.
 3. Press the car's power button to turn on the car.
 3. Set the toggle switch to **ON** and make sure the tires do not turn.
 4. Press the big, red button on the steering wheel.
@@ -85,4 +95,4 @@ Visually confirm, and correct as required, the wiring as follows.
 3. Disconnect the dashboard connectors from the car.
 4. Remove the blocks holding up the rear of the car; however keep them handy for use in subsequent tasks.
 
-After you confirm that the wiring is correct with the multimeter and that the wheel turns in the correct direction, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task13.html).
+After you confirm that the wiring is correct with the multimeter and that the wheel turns in the correct direction, you can continue to [the next task for a red car]({{ site.baseurl }}/pages/cars-maserati-task13-red.html) or [the next task for a pink car]({{ site.baseurl }}/pages/cars-maserati-task13-pink.html).
