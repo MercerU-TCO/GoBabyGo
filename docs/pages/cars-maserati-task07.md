@@ -48,7 +48,6 @@ Use the multimeter to test the wiring.
 [Short video on using the multimeter to measure continuity](https://youtu.be/x3cjTQxXr0g)
 
 1. On the multimeter, select "Ohms" (or continuity). This is usually indicated by the Greek letter omega (&#937;) for Ohms.
-
 <br>![Ohms setting on meter]({{ site.baseurl }}/assets/images/metertest-ohms.jpg)
 
 2. Place the red lead of the meter on the bare wire of the red wire.
