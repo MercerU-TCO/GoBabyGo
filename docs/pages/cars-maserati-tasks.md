@@ -33,7 +33,7 @@ After you complete the tasks in this section, before the child can drive it, you
 
 Review these steps and videos prior to the build event to become familiar with the designs and construction techniques used to fit a car to a specific child. To watch all of the videos will take slightly more than half-an-hour.
 
-1. Review the [Introduction Video](https://drive.google.com/open?id=0B0qlO3MZowqudVI0aTJzOFN3NTA).
+1. Review the [Introduction Video](https://youtu.be/k55DRyPlUuY).
 1. Collect [supplies and tools](https://drive.google.com/open?id=0B0qlO3MZowquUVRGOE56WWtzeVk).
 1. Review the [support video](https://drive.google.com/open?id=0B0qlO3MZowqubGVYa2p6dGNsUnc) and discuss the child's needs with the therapist and consider these topics and videos.
 	3. The [seat and harness](https://drive.google.com/open?id=0B0qlO3MZowqubE8zUjUwbm1HYlU)
