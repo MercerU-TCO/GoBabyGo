@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: topicTask
 title:  "Using the Multimeter"
+mainTaskPage: /pages/cars-maserati-tasks.html
 date:   2018-10-8 15:30:00 +0000
 ---
 
