@@ -1,21 +1,25 @@
 ---
-title: How to Contribute 
+title: Making Contributions 
 layout: topic
 ---
+## Making Contributions
 
-The following pages list how to contribute to the Go Baby Go documentation.
+Watch the video at https://1drv.ms/v/s!Aj1-MAuTJzgpgk4YLsR8Y1jhgl09 for a shorttutorial on making your first topic.
 
-## How to Contribute
+After you create or modify the files in your forked repo, to contribute those changes to the project:
 
- - [Setting up you Workspace]()
- - [Documentation and Development Tools]()
- - [Making a Contribution]() 
+1. **Make sure that you can see those changes in your version of the github.io documentation.** <br>
+This is very important. If you can't see your changes, something went wrong and**you must fix it before you continue!**
+    1. The first place to look is to make sure you do not have any bad metadatain a file.
+    1. The next place to look is to make sure you didn't link an image wrong.
+    2. If you still don't see your changes, you'll need to ask for help.
+1. If you see your changes in your version of the github.io documentation (i.e.at the link in your repo's **Settings** tab, in the **GitHub Pages** box in the**Options** view), you can continue.
+1. Send you pull request to the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo.
+        1. Create a **New pull request**<br>
+![GitHub GitHub Pages box](/contribute/images/contribute_pullrequest.png)
+        2. In the **Comparing changes** page, check the mergeability (Arrow 1).If it's **able to merge**, continue. If not, you can still continue, but your pull request might be rejected. Click **Create pull request** (Arrow 2) to finish.
+![GitHub GitHub Pages box](/contribute/images/contribute_create.png)
 
-## Contribution Guidelines
+1. If your contribution looks good, it will be merged into the staging repo andeventually make its way to the published project.
+1. If there's a problem, you might get some questions about the pull request orit might be declined with a comment to help you fix it. After you fix whatever wasn't working, repeat these steps to resubmit your pull request.
 
- - [Page Layouts]()
- - [Issues]()
-
-## Walkthrough
-
- - [Contribution Walktrhough]()

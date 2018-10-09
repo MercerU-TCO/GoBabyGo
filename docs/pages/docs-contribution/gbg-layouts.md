@@ -1,21 +1,21 @@
 ---
-title: How to Contribute 
+title: Page Layouts 
 layout: topic
 ---
 
-The following pages list how to contribute to the Go Baby Go documentation.
+# Page layouts
 
-## How to Contribute
+The following page layouts are supported by this project. They are based on (derived from) the Cayman theme.
 
- - [Setting up you Workspace]()
- - [Documentation and Development Tools]()
- - [Making a Contribution]() 
+## default
 
-## Contribution Guidelines
+The _default_ layout from the Cayman theme. It was modified to remove the Google APIs fonts. This gives you just the boring fonts that work when the site is hosted on a server that is not connected to the Internet. Upside: makes page loads very low overhead (and fast).
 
- - [Page Layouts]()
- - [Issues]()
+## topic
 
-## Walkthrough
+The _topic_ layout is the standard page layout for generic content pages.
 
- - [Contribution Walktrhough]()
+## topicTask
+
+The _topicTask_ layout is similar to (and derived from) the _topic_ layout. It should look just like a _topic_ page, except it provides a link to the task list page at the top and bottom of the page. The page these links should open is defined in the front matter by assigning  the **mainTaskPage** variable to point to the html page of the task list.
+
