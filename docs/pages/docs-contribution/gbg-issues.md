@@ -39,7 +39,7 @@ These are the labels used for issues in this project.
 ### Finding and creating issues
 
 1. Issues are listed in the **Issues** tab in the main page of the repo.
-![Issues tab](/contribute/images/contribute_issues.png)
+![Issues tab]({{site.baseurl}}/assets/images/contribute_issues.png)
 1. Filter issues by entering a label, status, or other property in the filter bar.
 2. Sort issues by using the column headings in the list.
 2. Create new issues by clicking the **New issue** button. Don't forget to give your issue a label to help identify it!
