@@ -16,10 +16,8 @@ This is very important. If you can't see your changes, something went wrong and 
 1. If you see your changes in your version of the github.io documentation (i.e. at the link in your repo's **Settings** tab, in the **GitHub Pages** box in the **Options** view), you can continue.
 1. Send your pull request to the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo.
 	1. Create a **New pull request**
-
 ![GitHub GitHub Pages box]({{site.baseurl}}/assets/images/contribute_pullrequest.png)
 	2. In the **Comparing changes** page, check the mergeability (Arrow 1).If it's **able to merge**, continue. If not, you can still continue, but your pull request might be rejected. Click **Create pull request** (Arrow 2) to finish.
-
 ![GitHub GitHub Pages box]({{site.baseurl}}/assets/images/contribute_create.png)
 
 1. If your contribution looks good, it will be merged into the staging repo and eventually make its way to the published project.
