@@ -18,7 +18,7 @@ layout: topic
 		1. (Arrow 1) Select the **master branch /docs folder** and **Save**
 		2. (Arrow 2) Make sure you see that your site is published (this can take a minute or two.
 		3. (Arrow 3) Confirm that the link refers to your account.
-			* ![GitHub GitHub Pages box]({{site.baseurl}}/assets/images/contribute_pages.png)
+			![GitHub GitHub Pages box]({{site.baseurl}}/assets/images/contribute_pages.png)
 			* When you see the green bar, open the the documentation in the link (Arrow3 above).
     			* If you DO NOT see a green bar and the documentation link or the link address in the settings does not refer to your account, **STOP**  and fix that before you continue.
 
