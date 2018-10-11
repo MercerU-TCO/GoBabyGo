@@ -54,7 +54,7 @@ Use the multimeter to test the wiring.
 	1. The meter should not show continuity.<br>![Meter showing no continutity]({{ site.baseurl }}/assets/images/metertest-open.jpg)
 	2. Press the large red push button, and the meter should indicate continuity (by showing zero or almost zero ohms or beeping).<br>![Meter showing continutity]({{ site.baseurl }}/assets/images/metertest-short.jpg)
     
-    ![Meter showing no continutity]({{ site.baseurl }}/assets/images/metertest-volts.jpg)
+![Meter showing no continutity]({{ site.baseurl }}/assets/images/metertest-volts.jpg)
 
 After you confirm that the wiring is correct with the multimeter, you can continue to [the next task]({{ site.baseurl }}/pages/cars-maserati-task08.html).
 
