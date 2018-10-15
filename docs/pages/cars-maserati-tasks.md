@@ -33,21 +33,21 @@ After you complete the tasks in this section, before the child can drive it, you
 
 Review these steps and videos prior to the build event to become familiar with the designs and construction techniques used to fit a car to a specific child. To watch all of the videos will take slightly more than half-an-hour.
 
-1. Review the [Introduction Video](https://drive.google.com/open?id=0B0qlO3MZowqudVI0aTJzOFN3NTA).
-1. Collect [supplies and tools](https://drive.google.com/open?id=0B0qlO3MZowquUVRGOE56WWtzeVk).
-1. Review the [support video](https://drive.google.com/open?id=0B0qlO3MZowqubGVYa2p6dGNsUnc) and discuss the child's needs with the therapist and consider these topics and videos.
-	3. The [seat and harness](https://drive.google.com/open?id=0B0qlO3MZowqubE8zUjUwbm1HYlU)
+1. Review the [Introduction Video](https://youtu.be/k55DRyPlUuY).
+1. Collect [supplies and tools](https://youtu.be/9zPJ8cvwk7c).
+1. Review the [support video](https://youtu.be/VAclQ_Cx8C8) and discuss the child's needs with the therapist and consider these topics and videos.
+	3. The [seat and harness](https://youtu.be/bGO4P8nEV3Y)
 	1. Whether the doors will be usable or closed permanently
-	2. The [back support requirements](https://drive.google.com/open?id=0B0qlO3MZowquT2pDaWdnWHViUXM)
-	3. The [lateral support requirements](https://drive.google.com/open?id=0B0qlO3MZowquVkdMclRsbE1hZFU)
+	2. The [back support requirements](https://youtu.be/5pY2VZme3-U)
+	3. The [lateral support requirements](https://youtu.be/TEk2-xabm10)
 5. Determine support cage required and the support cage mounting options<br>These options depend on whether the doors will open or not and are explained in these videos.
-	* [Opening doors](https://drive.google.com/open?id=0B0qlO3MZowqub0RSdmlseDdWakE)
-	* [Doors that don't open](https://drive.google.com/open?id=0B0qlO3MZowquTHAyZmYxZU9QejA)
+	* [Doors that open](https://youtu.be/8QwtiCidFR4)
+	* [Doors that don't open](https://youtu.be/hKpQZM5CpK8)
 5. Construct the support cage and attach the support elements to the car
 	1. Support cage
 	2. Base support pads
 	3. Lateral support pads
 	3. Head support pads
 	4. Seat back and harness
-5. [Add padding to the support cage](https://drive.google.com/open?id=0B0qlO3MZowquMXpPM3ZHMGdNRkU).
-9. Conduct [final check and deliver to child](https://drive.google.com/open?id=0B0qlO3MZowquTTR1WW5TN05qRFk).
+5. [Add padding to the support cage](https://youtu.be/SrfMo2xiNAY).
+9. Conduct [final check and deliver to child](https://youtu.be/vrj11Y-ZgBY).
