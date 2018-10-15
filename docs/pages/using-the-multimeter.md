@@ -5,6 +5,7 @@ mainTaskPage: /pages/cars-maserati-tasks.html
 date:   2018-10-8 15:30:00 +0000
 ---
 
+
 ![Measure the ohms](https://github.com/rbwatson/GoBabyGo/blob/master/docs/assets/images/metertest-ohms.jpg)
 
 ![Metertest open](https://github.com/rbwatson/GoBabyGo/blob/master/docs/assets/images/metertest-open.jpg)
