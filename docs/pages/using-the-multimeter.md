@@ -13,5 +13,7 @@ mainTaskPage: /pages/cars-maserati-tasks.html
 
 ![Metertest short](https://github.com/rbwatson/GoBabyGo/blob/master/docs/assets/images/metertest-short.jpg)
 
+![POGGERS](https://makeameme.org/media/templates/250/poggers.jpg)
+
 
 
