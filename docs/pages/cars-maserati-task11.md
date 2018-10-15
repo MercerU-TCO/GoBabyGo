@@ -25,7 +25,7 @@ _This task is easier with two people._
 10. While holding the switch in place, place the ON/OFF label on the switch's threads and tighten each nut to hold the switch and label in place.
 --11a. If there's no labels, apply the Off/Go (or On) labels stickers as shown and cover them with tape.<br>
  ![Off/Go stickers]({{ site.baseurl }}/assets/images/switchwithoutonoffresized.jpg)<br>
- ![Applying tape]({{ site.baseurl }}/assets/images/tapeoverresized2.jpg)
+ ![Applying tape]({{ site.baseurl }}/assets/images/taperoverresized2.jpg)
 11. The ON side of the switch should be on the left side of the switch as pictured below.<br>
 ![On/Off switch with labels]({{ site.baseurl }}/assets/images/withonoffresized.jpg)<br>
 12. From the battery compartment, insert a wire tie through one of the 1/8" holes, wrap around the 22" duplex wire and pass it through the other 1/8" hole to secure the 22" duplex wire.
