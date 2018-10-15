@@ -29,6 +29,8 @@ After you complete the tasks in this section, before the child can drive it, you
 3. [Assemble the modified dashboard]({{ site.baseurl }}/pages/cars-maserati-task14.html)
 5. [Perform final assembly and electrical tests]({{ site.baseurl }}/pages/cars-maserati-task15.html)
 
+[Using the multimeter] ({site.baseurl} /pages/using-the-multimeter.html)
+
 ## Fit car to child
 
 Review these steps and videos prior to the build event to become familiar with the designs and construction techniques used to fit a car to a specific child. To watch all of the videos will take slightly more than half-an-hour.
