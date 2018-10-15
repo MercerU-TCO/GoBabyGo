@@ -22,7 +22,7 @@ _This task is easier with two people._
 8. Insert the free end of the 22" duplex wire from the switch through the 1/4" hole so that the free end is in the battery compartment.
 9. Remove the nuts and ON/OFF label from the toggle switch.
 10. From beneath the car, insert the toggle switch through the hole in the rear deck lid. Align the toggle switch so that notch in the threads is facing the right rear fender.
-11. While holding the switch in place, place the ON/OFF label on the switch's threads and tighten each nut to hold the switch and label in place. If there's no label, apply the Off/Go (or On) labels stickers as shown.
+11. While holding the switch in place, place the ON/OFF label on the switch's threads and tighten each nut to hold the switch and label in place. If there's no label, apply the Off/Go (or On) labels.
  ![Off/Go stickers]({{ site.baseurl }}/assets/images/switchwithoutonoffresized.jpg)<br>
  Then, cover them with tape.<br>
  ![Applying tape]({{ site.baseurl }}/assets/images/taperoverresized2.jpg)
