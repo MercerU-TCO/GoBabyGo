@@ -1,25 +1,17 @@
 ---
-title: How to Contribute 
+title: Sample Contribution Walkthrough 
 layout: topic
 ---
 
-The following pages list how to contribute to the Go Baby Go documentation.
+This page provides a walkthrough for the entire contribution process: from finding an issue through submitting a pull request.
 
-## How to Contribute
+## Finding an Issue
 
- - [Setting up you Workspace]({{site.baseurl}}/pages/docs-contribution/gbg-setting-up.html)]
- - [Documentation and Development Tools]({{site.baseurl}}/pages/docs-contribution/gbg-tools.html)
- - [Making a Contribution]({{site.baseurl}}/pages/docs-contribution/gbg-making-contributions.html) 
+## Forking the Repo
 
-## Contribution Guidelines
+## Making Changes
 
- - [Page Layouts]({{site.baseurl}}/pages/docs-contribution/gbg-layouts.html) 
+## Submitting Changes
 
-
- - [Issues]({{site.baseurl}}/pages/docs-contribution/gbg-issues.html)
-
-## Walkthrough
-
- - [Contribution Walktrhough]()
-
+## Submitting Pull Requests  
 
