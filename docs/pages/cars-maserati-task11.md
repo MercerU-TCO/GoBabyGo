@@ -25,10 +25,9 @@ _This task is easier with two people._
 11. The ON side of the switch should be on the left side of the switch as pictured below.<br>
 ![On/Off switch with labels]({{ site.baseurl }}/assets/images/withonoffresized.jpg)<br>
 12. While holding the switch in place, place the ON/OFF label on the switch's threads and tighten each nut to hold the switch and label in place.<br>
-
 **If there's no metal label,** apply the Off/Go (or On) labels.
  ![Off/Go stickers]({{ site.baseurl }}/assets/images/switchwithoutonoffresized.jpg)<br>
- Then, cover them with tape.
+ Then, cover them with tape.<br>
  ![Applying tape]({{ site.baseurl }}/assets/images/taperoverresized2.jpg)
 13. From the battery compartment, insert a wire tie through one of the 1/8" holes, wrap around the 22" duplex wire and pass it through the other 1/8" hole to secure the 22" duplex wire.
 14. Secure the wire tie to hold the 22" duplex wire to the car.<br>The photo shows how this should look from under the car after this step is complete. <br>![View of toggle switch from underneath the car]({{ site.baseurl }}/assets/images/maserati-task11-004.jpg)
