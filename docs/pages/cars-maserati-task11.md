@@ -28,7 +28,7 @@ _This task is easier with two people._
 
 **If there's no metal label,** apply the Off/Go (or On) labels.
  ![Off/Go stickers]({{ site.baseurl }}/assets/images/switchwithoutonoffresized.jpg)<br>
- Then, cover them with tape.<br>
+ Then, cover them with tape.
  ![Applying tape]({{ site.baseurl }}/assets/images/taperoverresized2.jpg)
 13. From the battery compartment, insert a wire tie through one of the 1/8" holes, wrap around the 22" duplex wire and pass it through the other 1/8" hole to secure the 22" duplex wire.
 14. Secure the wire tie to hold the 22" duplex wire to the car.<br>The photo shows how this should look from under the car after this step is complete. <br>![View of toggle switch from underneath the car]({{ site.baseurl }}/assets/images/maserati-task11-004.jpg)
