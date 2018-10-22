@@ -4,7 +4,7 @@ layout: topic
 ---
 ## Making Contributions
 
-Watch the video at [https://1drv.ms/v/s!Aj1-MAuTJzgpgk4YLsR8Y1jhgl09](https://1drv.ms/v/s!Aj1-MAuTJzgpgk4YLsR8Y1jhgl09) for a short tutorial on making your first topic.
+Be sure to watch the video at [https://1drv.ms/v/s!Aj1-MAuTJzgpgk4YLsR8Y1jhgl09](https://1drv.ms/v/s!Aj1-MAuTJzgpgk4YLsR8Y1jhgl09) for a short tutorial on making your first topic.
 
 After you create or modify the files in your forked repo, to contribute those changes to the project:
 
