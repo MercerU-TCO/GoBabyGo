@@ -65,4 +65,4 @@ You will then be given the opportunity to compare your changes, and complete the
 
 You will then be able to title and write a description of the changes your repository makes. Once finished with that, click submit and you're done.
 
-Thanks for helping Go Baby Go!
+Thanks for helping the Go Baby Go project!
