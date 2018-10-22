@@ -25,21 +25,21 @@ We highly recommend new users work with the GitHub desktop program. It can be do
 
 To fork the repository, simply click the fork button in the top right of the repository web page.
 
-![Fork]({{site.baseurl}}/docs/assets/images/fork-button.png)
+![Fork]({{site.baseurl}}/docs/assets/images/fork-button.PNG)
 
 Once this is done, you will have a copy of the repository tied to your account. From here, you can clone the repository and begin work.
 
-![Website Clone]({{site.baseurl}}/docs/assets/images/clone-button.png)
+![Website Clone]({{site.baseurl}}/docs/assets/images/clone-button.PNG)
 
-![Desktop clone]({{site.baseurl}}/docs/assets/images/gh-desktop-clone.png)
+![Desktop clone]({{site.baseurl}}/docs/assets/images/gh-desktop-clone.PNG)
 
-![Desktop clone 2]({{site.baseurl}}/docs/assets/images/gh-desktop-clone-url.png)
+![Desktop clone 2]({{site.baseurl}}/docs/assets/images/gh-desktop-clone-url.PNG)
 
 ## Making Changes
 
 To make changes, edit or create files that correspond with the section you are attempting to correct. Then, add the files to a 'commit' like this:
 
-![Commit]({{site.baseurl}}/docs/assets/images/gh-desktop-commit.png)
+![Commit]({{site.baseurl}}/docs/assets/images/gh-desktop-commit.PNG)
 
 Once you are finished with this, you're ready to submit your changes. 
 
@@ -47,7 +47,7 @@ Once you are finished with this, you're ready to submit your changes.
 
 To submit changes, click the "Push" button for changes on the top bar.
 
-![Push]({{site.baseurll}}/docs/assets/images/gh-desktop-push.png)
+![Push]({{site.baseurll}}/docs/assets/images/gh-desktop-push.PNG)
 
 ## Submitting Pull Requests  
 
