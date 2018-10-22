@@ -28,6 +28,7 @@ After you complete the tasks in this section, before the child can drive it, you
 4. [Modify the dashboard wiring (PINK Maserati)]({{ site.baseurl }}/pages/cars-maserati-task13-pink.html)
 3. [Assemble the modified dashboard]({{ site.baseurl }}/pages/cars-maserati-task14.html)
 5. [Perform final assembly and electrical tests]({{ site.baseurl }}/pages/cars-maserati-task15.html)
+5. [Using the multimeter]({{site.baseurl}}/pages/using-the-multimeter.html)
 
 ## Fit car to child
 
