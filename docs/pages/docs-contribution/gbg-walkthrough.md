@@ -39,13 +39,15 @@ Once this is done, you will have a copy of the repository tied to your account. 
 
 To make changes, edit or create files that correspond with the section you are attempting to correct. Then, add the files to a 'commit' like this:
 
-![Commit]({{site.baseulr}}/docs/assets/images/gh-desktop-commit.png)
+![Commit]({{site.baseurl}}/docs/assets/images/gh-desktop-commit.png)
 
 Once you are finished with this, you're ready to submit your changes. 
 
 ## Submitting Changes
 
-To submit changes,
+To submit changes, click the "Push" button for changes on the top bar.
+
+![Push]({{site.baseurll}}/docs/assets/images/gh-desktop-push.png)
 
 ## Submitting Pull Requests  
 
