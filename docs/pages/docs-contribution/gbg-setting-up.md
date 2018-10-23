@@ -22,4 +22,4 @@ layout: topic
 			* When you see the green bar, open the the documentation in the link (Arrow3 above).
     			* If you DO NOT see a green bar and the documentation link or the link address in the settings does not refer to your account, **STOP**  and fix that before you continue.
 
-1. If you see your copy of the documentation in gethub.io, then you're ready tocontinue.
+1. If you see your copy of the documentation in github.io, then you're ready tocontinue.
