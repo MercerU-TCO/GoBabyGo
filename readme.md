@@ -6,7 +6,7 @@ This repo contains the documentation used to build and customize the small elect
 * The source documents that make up the published content is found in the [https://github.com/MercerU-TCO/GoBabyGo](https://github.com/MercerU-TCO/GoBabyGo) repo.<br>
 * The repo where changes are tested before they are published is the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo.
 
-See the notes below on how to contribute to this documentatin project.
+See the notes below on how to contribute to this documentation project.
 
 # How to contribute to the Go Baby Go! documentation
 
