@@ -57,7 +57,7 @@ Once you are finished with this, you're ready to submit your changes.
 
 To submit changes, click the "Push" changes button on the top bar.
 
-![Push]({{site.baseurll}}/assets/images/gh-desktop-push.PNG)
+![Push]({{site.baseurl}}/assets/images/gh-desktop-push.PNG)
 
 This will update the online version of your repository.
 

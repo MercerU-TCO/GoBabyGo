@@ -3,7 +3,7 @@ title: Setting up your Workspace
 layout: topic
 ---
 
-1. Fork the [https://github.com/rbwatson/GoBabyGo](https://github.com/rbwatson/GoBabyGo) repo into your GitHub account.
+1. Fork the [Work in Progress](https://github.com/rbwatson/GoBabyGo) repo into your GitHub account.
 
 	* Check to make sure that you're forking from the correct account: ![GitHub account to fork]({{site.baseurl}}/assets/images/contribute_rbwatson.png)
 
