@@ -9,13 +9,13 @@ This is a walkthrough for the entire contribution process: from finding an issue
 
 The test version of the Go Baby Go website is located at [Dr. Watson's Personal account](https://github.com/rbwatson/GoBabyGo). From there, click the _Issues_ tab. 
 
-![Issues tab]({{site.baseurl}}/assets/images/issues-tab.png)
+![Issues tab]({{site.baseurl}}/assets/images/issues-tab.PNG)
 
 From there, you can sort the issues via the tags they are associated with. A more detailed description of the tags is available on the issues page [here]({{site.baseurl}}/pages/docs-contribution/gbg-issues.html).
 
 After selecting an issue, be sure that your chosen issue is not already being worked on by someone else! Type a comment on your issue to let others know that you've claimed it.
 
-![Issues Claim]({{site.baseurl}}/assets/images/issues-claim.png)
+![Issues Claim]({{site.baseurl}}/assets/images/issues-claim.PNG)
 
 Once you've claimed your issue, you are ready to fork the repository.
 
