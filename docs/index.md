@@ -10,6 +10,10 @@ If you're about to build a car for Mercer University's _Go Baby Go!_, review the
 * [Car Model Specific Information]({{site.baseurl}}/pages/cars-home.html)
 	* [Maserati]({{site.baseurl}}/pages/cars-maserati-tasks.html)
 
+# Contribute to _Go Baby Go_ Documentation
+
+If you'd like to help improve this documentation, you can find help for it
+[here]({{site.baseurl}}/pages/docs-contribution/gbg-contribute.html).
 
 # _Go Baby Go_ Program Information
 
